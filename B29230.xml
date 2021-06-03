@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prospective-glass for saints and sinners whereby may appear and be seen, 1. The authors life expressed in the first epistle, 2. That there is no true peace of mind in those that account themselves believers so long as they lead a corrupt life, 3. What great enemies the riches of this world, and poverty are to truth, 4. What that truth and true knowledge is, which giveth satisfaction to the mind of man in this life : and several other things necessary to salvation / by John Saddington.</title>
+            <author>Saddington, John.</author>
+         </titleStmt>
+         <extent>Approx. 156KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29230</idno><idno type="EEBO-CITATION">17196532</idno>
+  <idno type="VID">206381</idno>
+  <idno type="EEBO-PROQUEST">2264212816</idno>
+  
+            <idno type="STC">Wing S264</idno>
+            <idno type="OCLC">17196532</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1622:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prospective-glass for saints and sinners whereby may appear and be seen, 1. The authors life expressed in the first epistle, 2. That there is no true peace of mind in those that account themselves believers so long as they lead a corrupt life, 3. What great enemies the riches of this world, and poverty are to truth, 4. What that truth and true knowledge is, which giveth satisfaction to the mind of man in this life : and several other things necessary to salvation / by John Saddington.</title>
+                  <author>Saddington, John.</author>
+               </titleStmt>
+               <extent>[16], 83, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Muggletonians.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206381:1"/>
+            <pb facs="tcp:206381:1"/>
+            <p>A PROSPECTIVE-GLASS FOR SAINTS AND SINNERS. Whereby may appear and be seen,
+<list>
+                  <item>1. The Authors Life expressed in the first Epistle.</item>
+                  <item>2. That there is no true Peace of Mind, in those that ac<g ref="char:EOLhyphen"/>count themselves Believers so long as they lead a cor<g ref="char:EOLhyphen"/>rupt life.</item>
+                  <item>3. What great Enemies the Riches of this World, and Po<g ref="char:EOLhyphen"/>verty are to Truth.</item>
+                  <item>4. What that Truth and true knowledge is, which giveth satisfaction to the mind of Man in this Life.</item>
+               </list>
+            </p>
+            <p>And several other things necessary to Salvation.</p>
+            <p>By <hi>John Saddington,</hi> A true Believer of the Witnesses of the Spirit, sent forth by the immediate Voice of God Almighty, in the Year 1651.</p>
+            <p>Printed in the Year 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206381:2"/>
+            <pb facs="tcp:206381:2"/>
+            <head>AN EPISTLE IN GENERAL.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p n="1">1. <seg rend="decorInit">I</seg>T is to be hoped upon thy perusal of this little Book, called a <hi>Prospective-Glass,</hi> thou willt see and discern therein a Rule to walk by.</p>
+            <p n="2">2. It directeth to no other work but to keep that peace which every true Believer maketh with God, whenever He or She doth receive Truth in the Love thereof, and to keep themselves unspotted in this World.</p>
+            <p n="3">3. To use Moderation in all things, to the Glory of God, and peace of their own minds; whereby others will be encouraged by their peaceable Spirits, to come to the knowledge of the Truth.</p>
+            <p n="4">
+               <pb facs="tcp:206381:3"/>4. It was neither the Lives and Conver<g ref="char:EOLhyphen"/>sations of the Saints that are now called Be<g ref="char:EOLhyphen"/>lievers: nor the fewness or small number of them that believed nor the multitude of de<g ref="char:EOLhyphen"/>spisers that caused me to believe.</p>
+            <p n="5">5. But so soon as the Declaration of the Witnesses of the Spirit, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounded in mine <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ars, the scales fell from mine Eyes, and immedi<g ref="char:EOLhyphen"/>ately I did see that it wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Truth.</p>
+            <p n="6">6. And blessed be the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ost High God, by believing of his last Messengers, I have had the assurance of my Salvation these seventeen years and upwards.</p>
+            <p n="7">7. By Experience do I write what manner of lives the Saints ought to live: And be<g ref="char:EOLhyphen"/>cause I assuredly know thereby, that there can be no true Peace in any Believer, so long as there is any manner of evil acted by him, therefore have I prepared this <hi>Glass,</hi> wherein he may see his own folly, and learn to resist every thing that is known to break the peace of the mind.</p>
+            <p n="8">8. Every thing that breaketh the peace of the mind is an enemy to Truth, and every one that is a despiser of Truth, is an ene<g ref="char:EOLhyphen"/>my
+<pb facs="tcp:206381:3"/>to God, and to their own Souls. And there is no spiritual Truth, or true know<g ref="char:EOLhyphen"/>ledge of the true God Christ Jesus, but what is declared by the witnesses of the Spirit, as will appear in my following Discourse.</p>
+            <p n="9">9. Did I not know my self armed with moderation, and that I had overcome those Enemies that formerly were disturbing my peace, I durst not have published this to the World.</p>
+            <p n="10">10. By publishing hereof I shall become a mark for every one to shoot at: Blessed be God, there is none that can fling dirt in my face for any evil actions practised by me for<g ref="char:EOLhyphen"/>merly.</p>
+            <p n="11">11. Now some will shoot their Arrows at me in love, others in hatred, but blessed be my God, I am able to withstand them, and there i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no envious Arrow able to hurt me.</p>
+            <p n="12">12. Though this small Treatise of mine is not beautified with the excellencie of mans speech (which is gained by Humane Learn<g ref="char:EOLhyphen"/>ing, and therefore called <hi>Man's Wisdom, which is at emnity with God</hi>) but it is de<g ref="char:EOLhyphen"/>clared in plainness of Speech, and in since<g ref="char:EOLhyphen"/>rity
+<pb facs="tcp:206381:4"/>and truth by that Faith in me, which is at peace with God.</p>
+            <p n="13">13. Yet I know I shall be judged by those that the world calleth Godly, Wise and Learn<g ref="char:EOLhyphen"/>ed to be uncapable to know the mind of God in the Scriptures, because I have not be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n brought up and educated in Humane Learning.</p>
+            <p n="14">14. But though I am not so strongly furni<g ref="char:EOLhyphen"/>shed with Mans stren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, which is the seve<g ref="char:EOLhyphen"/>ral Languages taught by Men: Yet blessed be my Redeemer, I am so well taught by that Ancient School-master, the Nature of Faith in me, whereby I am able to declare the Truth.</p>
+            <p n="15">15. Therefore let none be so conceited of Learned men, as if the Word of God came only to them, and from them; for we know that most part of the Holy Scriptures were written by such men as were not educated in Humane Learning.</p>
+            <p n="16">16. The Pharisiacal Jews and Sadduces who were most Learned, could not find out the time when Christ should come, by all their Learning: And so still, all those who
+<pb facs="tcp:206381:4"/>by the World are accounted weak and fool<g ref="char:EOLhyphen"/>ish, are made wise and valiant in the service of Christ.</p>
+            <p n="17">17. If a man could read all the Langua<g ref="char:EOLhyphen"/>ges in the World, he could not by that find out, know, or believe what the true God is in his Form and Nature. Yet to him that knoweth what the true God is, Humane Learning is a good help and hand maid to enable him to illustrate and set forth the glorious things of Eternity, whereby the seed of Reason might the more admire them.</p>
+            <p n="18">18. For my part, when I was but a Child, I delighted so much in Learning, that I was ne<g ref="char:EOLhyphen"/>ver well contented but when I was at School to learn to read and write; and I did take more delight in reading the Bible and other good Books (as the <hi>Practice of Piety, Pray<g ref="char:EOLhyphen"/>er-Books,</hi> and the like) than could be ex<g ref="char:EOLhyphen"/>pected from one of my Age, this was the first degree of knowledge I had.</p>
+            <p n="19">19 And I am confident had my Parents then been able and willing to have kept me at School, I should have attained to as much
+<pb facs="tcp:206381:5"/>humane Learning as could have been taught me by man.</p>
+            <p n="20">20. The next thing that I took delight in, was learning such <hi>Catechismes</hi> as were set out by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earned Men, and hearing of Ser<g ref="char:EOLhyphen"/>mons, keeping close to the Church: The Presbyterians being then in Power, and ve<g ref="char:EOLhyphen"/>ry powerful they were in their way.</p>
+            <p n="21">21. Then according to my knowledge, <hi>I</hi> thought that was the true Church, and that the Ministers thereof were the only Ministers of God. This was the second Degree of Knowledge <hi>I</hi> had, and there <hi>I</hi> staid, thinking that all those who opposed them were those false Teachers that should come in Sheeps-Cloathing, and dawb with untempered Morter.</p>
+            <p n="22">22. Whil'st <hi>I</hi> thought my self secure there, being still but young: For about the year 1652. <hi>I</hi> was not above 18 years of Age, <hi>I</hi> saw a Book intituled, <hi>A Sword doubled,</hi> Or, <hi>The Terror of Tythes,</hi> written by a Mini<g ref="char:EOLhyphen"/>ster; That all those that were Ministers of the Gospel (or otherwise called themselves so,) he himself being one of them.</p>
+            <p n="23">
+               <pb facs="tcp:206381:5"/>23. I say, he proved all of them that took Tythes to be Murtherers, Oppressors of the Poor, and Robbers of God, for which he said he was so tormented in his mind, that he was forced to rise out of his Bed in the night, and to go into a secret place to repent of that wickedness.</p>
+            <p n="24">24. And to that purpose did he write se<g ref="char:EOLhyphen"/>veral sheets of Paper. When <hi>I</hi> had viewed that Book, then was <hi>I</hi> lost in my self, because those Ministers in whom then <hi>I</hi> put my trust, were such as took Tythes.</p>
+            <p n="25">25. Then I knew not which way to go to find out Truth, yet still <hi>I</hi> went to hear the Presbyterians, and sometimes the Indepen<g ref="char:EOLhyphen"/>dent and Baptists. And <hi>I</hi> was very zealous in praying and repeating of Sermons. <hi>I</hi> could have sate from morning to evening to have heard those that were counted able men preach.</p>
+            <p n="26">26. <hi>I</hi> could never find any difference in the Foundation between the Presbyterians, Independents and the Baptists: for though they differ something in point of Worship, yet they all own one God, and one Devil.</p>
+            <p n="27">
+               <pb facs="tcp:206381:6"/>27. They all hold forth that the Soul of man is immortal, and such like. They all teach pleasing things to the Ear, yet <hi>I</hi> could find no more satisfaction by hearing one than <hi>I</hi> did by hearing the other in point of Salva<g ref="char:EOLhyphen"/>tion. None of them could give me any assu<g ref="char:EOLhyphen"/>rance of that; and the assurance of my Sal<g ref="char:EOLhyphen"/>vation was all that I looked after.</p>
+            <p n="28">28. Had the <hi>Quakers</hi> come forth plentiful<g ref="char:EOLhyphen"/>ly a little sooner they would have catch'd me with their snares; for when that Trumpet first sounded in mine Ears, they came forth with such a seeming pure Language and life, which <hi>I</hi> from my Childhood was a lover of.</p>
+            <p n="29">29. But blessed be my God, I was setled in the knowledge of Truth before I came to be acquainted with that Antichristian Spirit in the <hi>Quakers,</hi> who deny, or will not acknow<g ref="char:EOLhyphen"/>ledge the Resurrection of the body of Christ.</p>
+            <p n="30">30. About the later end of the Year 1654. I heard of <hi>The Witnesses of the Spirit,</hi> which <hi>I</hi> had heard of in 1653. by the name of two Prophets, then Prisoners in old <hi>Bridewel, London,</hi> for declaring their Commission which they had received from the Throne
+<pb facs="tcp:206381:6"/>of Glory, which gave them Power to be the Chief Judges of all Spiritual matters in this World.</p>
+            <p n="31">31. But when I heard of them by a Fel<g ref="char:EOLhyphen"/>low-Prentice of mine, that was in <hi>Bridewel</hi> at the same time, and in the same room with them; he telling me there was two Prophets there: I having read that many false Pro<g ref="char:EOLhyphen"/>phets should come in the last times, I thought they might be two of them. Also the second time I heard of them, I was not satisfied.</p>
+            <p n="32">32. Again, I was informed of them by a Friend of mine) of whom <hi>I</hi> borrowed a Book of theirs, intituled, <hi>A Transcendent Spiritu<g ref="char:EOLhyphen"/>al Treatise;</hi> upon the reading whereof <hi>I</hi> sound such excellent Truths declared, that I was not able to resist or oppose any thing that was written therein, but immediately became obe<g ref="char:EOLhyphen"/>dient unto it.</p>
+            <p n="33">33. Assoon as the Voice of the true Shepherd had sounded in mine Ears, the light of Truth shined so bright into my Soul, that <hi>I</hi> could see my Salvation purchased with the Blood of Christ the only and alone true God.</p>
+            <p n="34">34. Though there is no outward Miracles
+<pb facs="tcp:206381:7"/>done by the <hi>Witnesses of the Spirit,</hi> yet that glorious Language and Heavenly Matter which is written by them (which is the work of the Spirit) maketh it appear that they are what they declare themselves to be.</p>
+            <p n="35">35. Prophesying serveth for Believers, and Signs and Wonders are to convince Unbelie<g ref="char:EOLhyphen"/>vers, but not to convert them.</p>
+            <p>There is enough written by the <hi>Witnesses of the Spirit</hi> to convince the whole world, if they would take the pains to read it.</p>
+            <p n="36">36. Therefore I desire all that read this lit<g ref="char:EOLhyphen"/>tle Book, and desire to be further satisfied of the matters therein contained, that they will have recourse to the Writings of the Wines<g ref="char:EOLhyphen"/>ses themselves.</p>
+            <p n="37">37. There, they who have discerning Eyes, being of the Seed of the Woman, or Faith, will be fully satisfied concerning all things of Eternity.</p>
+            <closer>
+               <signed>John Saddington.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:206381:7"/>
+            <head>AN EPISTLE WRITTEN To the Believers of the Witnesses of the SPIRIT.</head>
+            <p n="1">
+               <hi>1.</hi>
+               <seg rend="decorInit">M</seg>Y Dearly Beloved Spiritual Friends in <hi>London,</hi> the se<g ref="char:EOLhyphen"/>veral Counties of <hi>Middle<g ref="char:EOLhyphen"/>sex, Leicester, Nottingham, Stafford, Darby, Cam<g ref="char:EOLhyphen"/>bridge, Essex, Kent,</hi> and all other places in <hi>England;</hi> I salute you in the Spirit of Truth.</p>
+            <p n="2">
+               <hi>2.</hi> Not forgetting those in <hi>Ireland, Spain,</hi> the <hi>Indies,</hi> or in any other remote place in the World, who are all my beloved Friends and Brethren in the knowledge of Truth.</p>
+            <p n="3">
+               <hi>3.</hi> If there be any among you that is gi<g ref="char:EOLhyphen"/>ven to Lasciviousness, Drunkenness, Idleness,
+<pb facs="tcp:206381:8"/>Passion, breaking of Promises, or any other Vice whatsoever, let it all be forsaken for the Truths sake.</p>
+            <p n="4">
+               <hi>4.</hi> Every evil <hi>Action</hi> that is committed by a <hi>Believer</hi> doth <hi>disturb</hi> the <hi>Well-spring of Faith</hi> in him; whereby it cannot run so <hi>clear</hi> as his doth that is cleansed from evil, as in this <hi>Glass</hi> you may see.</p>
+            <p n="5">
+               <hi>5.</hi> I was moved by the Seed of Faith in me long ago to write a Book to the same purpose that I have written this, but when I well con<g ref="char:EOLhyphen"/>sidered what I was to undertake, I had several stops put to it.</p>
+            <p n="6">
+               <hi>6.</hi> Sometimes I thought there was no occa<g ref="char:EOLhyphen"/>sion for me to write, so long as there was a Prophet alive. Also I thought my self insuf<g ref="char:EOLhyphen"/>ficient to write that which should be Printed, because I was not a Latine Scholar.</p>
+            <p n="7">
+               <hi>7.</hi> But the chiefest thing that kept me from writing a Book of, or for the life and conver<g ref="char:EOLhyphen"/>sation of the Saints was, because I could not do it without reflecting upon my self.</p>
+            <p n="8">
+               <hi>8.</hi> So I did forbear publishing any thing, until such time as that I had cast the <hi>Beam</hi> out of mine own <hi>Eye</hi> first, that I might see
+<pb facs="tcp:206381:8"/>clearly to cast the <hi>Mote</hi> out of my Brothers <hi>Eye.</hi>
+            </p>
+            <p n="9">
+               <hi>9.</hi> Therefore I desire you all, not to think that I have written this Book to charge any of you with Sin; but to be a means to restrain you from running wilfully into that which is evil, and <hi>a dishonour to Truth.</hi>
+            </p>
+            <p n="10">
+               <hi>10.</hi> I have been for several years together moved by that Seed of Faith in me, to write against those things, which by Experience I know, breaketh the peace of the mind; And that <hi>Well-spring of Faith</hi> which sprung up so plentifully in me, and caused me to write this small Treatise; I hope it will, and do hear<g ref="char:EOLhyphen"/>tily wish, and desire it may prove beneficial to other <hi>Believers,</hi> as it hath done to me, and cause them to cease from all manner of evil, and wholly follow after that which is Righteous in the sight of God and men, as I now do, bles<g ref="char:EOLhyphen"/>sed be my God for it; and for no other end have I published this to the World.</p>
+            <p n="11">
+               <hi>11.</hi> Thus desiring that the said <hi>Well<g ref="char:EOLhyphen"/>spring of Faith</hi> in every one of you may run so clear, that every one who heareth of it may desire to have some of the same to refresh
+<pb facs="tcp:206381:9"/>their Spirits, and so allay their thirsts withal, which is best done by the increasing in purity, by Piety in Practice: And so I conclude this Epistle.</p>
+            <closer>
+               <signed>John Saddington.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:206381:9"/>
+            <head>The Contents of this Book.</head>
+            <p>
+               <hi>Chapt. 1.</hi> WHat manner of Lives the Saints ought to live in this world.</p>
+            <p>
+               <hi>Chapt. 2.</hi> How hard a matter it is to please the Devil: and what those are to believe, that expect comfort by believing, and what Saints are to strive about.</p>
+            <p>
+               <hi>Chapt. 3.</hi> What an Enemy the riches of this world are to Truth: And how all things are possible for God to do, which his Glory moveth him unto: And how this worlds riches are of the nature of a Loadstone.</p>
+            <p>
+               <hi>Chapt. 4.</hi> How careful people ought to be, in preserving that which they labour for, because Poverty is a great Enemy to Truth, and breaketh the peace of the mind.</p>
+            <p>
+               <hi>Chapt. 5.</hi> How people ought to be moderate in all things: The comfort of Moderation, and the discomfort of Ex<g ref="char:EOLhyphen"/>cess and Extravagancie.</p>
+            <p>
+               <hi>Chapt. 6.</hi> Every true Believer is Heir to the Kingdom of Heaven, because he is free-born and free by Redemption.</p>
+            <p>
+               <hi>Chapt. 7.</hi> When any evil is committed by a Believer, it stop<g ref="char:EOLhyphen"/>peth the current of his Faith: But it is the heart God mindeth, and not the outward appearance. Let e<g ref="char:EOLhyphen"/>very Believer weed his own Garden.</p>
+            <p>
+               <hi>Chapt. 8.</hi> He is not accounted a wise man that will wound him<g ref="char:EOLhyphen"/>self. How we may know when our sins are forgiven us.</p>
+            <p>
+               <hi>Chapt. 9.</hi> Eternity became Time: and the Eternal Father was born of a Virgin. Now is the Prophesie of <hi>Isaiah</hi> fulfilled.</p>
+            <p>
+               <hi>Chapt. 10.</hi> How the Believers of the <hi>Witnesses of the Spi<g ref="char:EOLhyphen"/>rit</hi> have a threefold Knowledge; and the <hi>Witnesses of the Spirit,</hi> are the third and last Witnesses that God will send on this Earth.</p>
+            <pb facs="tcp:206381:10"/>
+            <p>
+               <hi>Chapt. 11.</hi> Where the Truth and true Knowledge, Peace, and Satisfaction is to be had: And how it keepeth us from going a whoring after strange Gods.</p>
+            <p>
+               <hi>Chapt. 12.</hi> How all sober men are to labour to know what they believe, that they may lay hold on the good Word of Prophesie; and not be fed up with Fancies to believe in that which no man can discern what it is or where it is.</p>
+            <p>
+               <hi>Chapt. 13.</hi> In Christ is comprehended the whole Trinity: no man on this earth can prove three Persons in the Trinity.</p>
+            <p>
+               <hi>Chapt. 14.</hi> God is not in this world at all, but at such times as his Glory moveth him, to come down for a time: neither doth God dwell in this world any other way, but in the hearts of his Saints by Faith. There is no Salvation for those that refuse Christ to be their God.</p>
+            <p>
+               <hi>Chapt. 15.</hi> The Soul of Man is Generated with its Body, therefore it liveth and dieth with the Body, and is ne<g ref="char:EOLhyphen"/>ver parted from it.</p>
+            <p>
+               <hi>Chapt. 16.</hi> There are several Degrees of Knowledge, but no degree able to give true Rest to the mind, until a man can believe the true Messengers of God.</p>
+            <p>
+               <hi>Chapt. 17.</hi> Truth is a Pearl of great price, therefore a man must part with all to purchase it; And those only that hold out in their Faith to their lives end shall be saved, but for those that fall back, and withdraw their love from it, for them there is no Redemption.</p>
+            <p>
+               <hi>Chapt. 18.</hi> How all the Seed of Faith may be made able to say with me, and all true Believers, That they can read that new Name written in themselves, and what the hidden Mannais.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="3" facs="tcp:206381:10"/>
+            <head>CHAP. I. <hi>What manner of lives the Saints ought to live in this World.</hi>
+            </head>
+            <p n="1">1. IT was the saying of the Prophet <hi>Isaiah,</hi> Chapt. 8. Vers. 20. <hi>To the Law and to the Testimony, if they speak not according to this Word, it is because there is no Light in them.</hi>
+            </p>
+            <p n="2">2. Though I am no Prophet, nor the Son of a Prophet, yet by that Light of Faith in me, which I have received by believing the Report of the Lords last Prophets do I bear witness, that the whole Law and Testimony of the Scriptures are true.</p>
+            <p n="3">3. There are three Testimonies, Laws, or Re<g ref="char:EOLhyphen"/>cords which agree in one on this Earth, as it is written. The first <hi>Moses</hi> and the other Prophets, signified the Water. The Second was Christ and his Apostles, which signified the Blood. The Third is▪ The last Messengers, or Prophets herein men<g ref="char:EOLhyphen"/>tioned, which signifieth the Spirit; and all these a gree in one.</p>
+            <p n="4">4. They that bear not witness to the Testimo<g ref="char:EOLhyphen"/>nies
+<pb n="4" facs="tcp:206381:11"/>of these Three, it is, because there is no Light in them: And let the Testimony of a good Con<g ref="char:EOLhyphen"/>science also bear witness in all true Believers.</p>
+            <p n="5">5. They who are true Believers of the third and last Testament of God sent forth and declared to the world in this last Age, are also true Believers of the two former, and do walk in the true Light.</p>
+            <p n="6">6. Let all those that have received, or shall receive the true Light, so walk, that their temporal Actions may not dim the Light of their spiritual knowledge.</p>
+            <p n="7">7. Let those take as much delight in walking up<g ref="char:EOLhyphen"/>rightly before God and in the sight of men, as they do in declaring that Knowledge which they have of God unto men.</p>
+            <p n="8">8. Then their Light will shew it self to he that true and gratious Light by which all true Believers may see their way to Eternal Life.</p>
+            <p n="9">9. Let no Saint break his own peace by any un<g ref="char:EOLhyphen"/>seemly action; but let them walk in all respects as becometh Saints, for the fruits of the Spi<g ref="char:EOLhyphen"/>rit of life, is all Goodness, Righteousness, and Truth.</p>
+            <p n="10">10. They that are Believers of the Witnesses of the Spirit, and walk contrary to the Spirit of Truth, do not only break their own peace, but they do also lay a stumbling-stone for others to fall at, which cau<g ref="char:EOLhyphen"/>seth <hi>Truth</hi> to be evil spoken of.</p>
+            <p n="11">11. It hath pleased our God to send his last Mes<g ref="char:EOLhyphen"/>sengers into the World in these our dayes to declare unto us secret and Sacred things, that were hid from all former Ages and Generations of men.</p>
+            <p n="12">12. We do assuredly know what, and where our
+<pb n="5" facs="tcp:206381:11"/>God is; that his Eternal Spirit is clothed with that blessed Body of Christ Jesus glorified, our blessed Redeemer, whom the Heaven of Glory will retein until the end of time.</p>
+            <p n="13">13. At his next coming time will be swallowed up into Eternity.</p>
+            <p n="14">14. Christ will come no more to Reign upon this Earth with his Saints, as it is imagined by ma<g ref="char:EOLhyphen"/>ny, but they are not taught by the Spirit of Truth.</p>
+            <p n="15">15. Let not us who have the true knowledge of God and our own Natures, walk as if we were igno<g ref="char:EOLhyphen"/>rant of what we profess to know.</p>
+            <p n="16">16. But let us make use of our Spiritual Wis<g ref="char:EOLhyphen"/>dom in such sort, as that the World may stand in admiration, and may have cause to say of us, <hi>Veri<g ref="char:EOLhyphen"/>ly, and of a truth God is in them, they are the chosen People of God.</hi>
+            </p>
+            <p n="17">17. Our light ought to shine clear in this world. It is written, <hi>A Candle is not lighted to be put under a Bushel, but on a Candlestick:</hi> So every one that hath his knowledg inlightned in the truth, with the light of Life Eternal, he must let that Light shine in the World.</p>
+            <p n="18">18. He that hath true Faith (the nature where<g ref="char:EOLhyphen"/>of is to purifie both heart and life) if he walk o<g ref="char:EOLhyphen"/>therwise, contrary to what knowledge he profes<g ref="char:EOLhyphen"/>seth, he hath received (especially before the faces of Unbelievers) it doth darken his Faith so much, that the light of it cannoe be seen, no more than the light of a Candle that is under a Bushel.</p>
+            <p n="19">19. Therefore let not us that have a pure and clear light, walk as if we were in darkness, or were men of no understanding.</p>
+            <p n="20">
+               <pb n="6" facs="tcp:206381:12"/>20. It is a shame for one that is a true Believer, and a Saint of God, to carry himself so disorderly as to be checked by Devils for his disorderly carriage.</p>
+            <p n="21">21. I desire and exhort every one that is a true Believer of the Lords last Messengers to walk cir<g ref="char:EOLhyphen"/>cumspectly in their lives and conversations.</p>
+            <p n="22">22. And as the Apostle exhorted in his time, <hi>Let no evil communication come out of your mouths,</hi> but rather that which is edifying unto others, lest we grieve the Holy Spirit of God in us, and make our selves a reproach.</p>
+            <p n="23">23. The World is ignorant of what we are made to know, even the way to Salvation.</p>
+            <p n="24">24. None in the world can have assurance of their Salvation in this life, but those that are Be<g ref="char:EOLhyphen"/>lievers of the Spiritual Commission given by the Lord to his last Messengers, as aforesaid.</p>
+            <p n="25">25. I do not plead for righteous acting, thinking thereby to merit Heaven, for we have gained the assurance of that by believing the Report of the Lords true Ministers, which are the <hi>Witnesses of the Spirit.</hi>
+            </p>
+            <p n="26">26. Our blessed Saviour himself said, <hi>Joh.</hi> 6.29. the whole work was <hi>to believe in him whom he had sent;</hi> therefore it is by Faith, and not by any other works that we are saved.</p>
+            <p n="27">27. Yet where there is true Faith, let not the Righteousness of the Law be wanting. Righteous actings are a very good Ornament for to set forth and illustrate Faith.</p>
+            <p n="28">28. He that breaketh the Law, or worketh any manner of Evil, breaketh his own peace; and if a
+<pb n="7" facs="tcp:206381:12"/>man be not at peace in himself, how can he be at peace with God. You know it is written, <hi>If our Consciences accuse us, God is greater than our Consci<g ref="char:EOLhyphen"/>ences.</hi>
+            </p>
+            <p n="29">29. Therefore this I would have all Believers do, to walk uprightly before God, and to keep them<g ref="char:EOLhyphen"/>selves blameless and unspotted in this world, and to walk with a pure language and life, as becometh Saints.</p>
+            <p n="30">30. I do not desire that a burthen should be laid upon the Saints than they are able to bear; for I have learned to forgive my Brother if he sinneth a<g ref="char:EOLhyphen"/>gainst me or against his own Soul.</p>
+            <p n="31">31. Nevertheless I would not have any Saint to abuse himself in any thing, that is accounted evil, for as St. <hi>Paul</hi> saith, <hi>Those things that are lawful for us to do, are not convenient to be done.</hi>
+            </p>
+            <p n="32">32. Let us follow after those things which bring<g ref="char:EOLhyphen"/>eth peace to our selves and edifieth others, as meek<g ref="char:EOLhyphen"/>ness, love, and chastity, with all Righteousness which is acceptable with our God Christ Jesus glo<g ref="char:EOLhyphen"/>rified, and approved of by men, whereby the Truth may not be evil spoken of.</p>
+            <p n="33">33. Neither let us give occasion to Devils (De<g ref="char:EOLhyphen"/>vilish men and women) by our bad walking to speak evil of those glorious Truths which they are not worthy to know.</p>
+            <p n="34">34. But let us walk humbly before our God, that our innocent lives may be a Patern to the World, that have no other hopes of Glory but by their Mo<g ref="char:EOLhyphen"/>ral Righteousness, which is of no value in compa<g ref="char:EOLhyphen"/>rison to true Faith.</p>
+            <p n="35">
+               <pb n="8" facs="tcp:206381:13"/>35. Though Moral Righteousness is a very good and decent Ornament to set forth Faith, yet he that is never so Moral, or endued with the Righteous<g ref="char:EOLhyphen"/>ness of the Law, if he be a Despiser of Truth, by not having Faith to believe the Messengers of God, and their Declarations, all his Righteousness will stand him in no stead in the day of the Lords ac<g ref="char:EOLhyphen"/>count.</p>
+            <p n="36">36. As for us, who have true Faith to believe the Report of the Lords last true Prophets and <hi>Wit<g ref="char:EOLhyphen"/>nesses of the Spirit,</hi> Let us <hi>be clothed with Righteous<g ref="char:EOLhyphen"/>ness as with a Garment.</hi>
+            </p>
+            <p n="37">37. Because we are found worthy to be of the Family of God, and none in the World but the Be<g ref="char:EOLhyphen"/>lievers above-mentioned are chosen to be of his Houshould, therefore there is no Garment but that of Righteousness suteable for a Saint to wear in this world.</p>
+            <p n="38">38. Wherefore we must be sure to walk sincere<g ref="char:EOLhyphen"/>ly in all things, that we may honour our Father, our King, our Lord and Master, even the Lord Jesus Christ.</p>
+            <p n="39">39. He alone is Lord both of Heaven and Earth, and he hath clothed us with rich and costly Robes, the Garment of Salvation, and by this we know he loveth us because these Robes which he hath free<g ref="char:EOLhyphen"/>ly given us, cost him so dear a rate as his Godheads life, and his most precious Blood.</p>
+            <p n="40">40. What care therefore ought we take least at any time we should defile these Garments which could not have been bought with any other price but with the Blood of the Eternal God, which was
+<pb n="9" facs="tcp:206381:13"/>shed by the unbelieving Jews, according to his Eter<g ref="char:EOLhyphen"/>nal Decree.</p>
+            <p n="41">41. That he might raise all, both Jew and Gentile, that do truly believe and own him to be their God and Saviour to a glorious and everliving life, in that King<g ref="char:EOLhyphen"/>dom of Glory where they shall behold the firey glo<g ref="char:EOLhyphen"/>rious face of God to all Eternity.</p>
+            <p n="42">42. And he will likewise raise all unbelieving Jews and Gentiles to a shameful and painful ever-dying death.</p>
+            <p n="43">43. When they are in possession of that misery which they were foretold of, then will they cry and howl, but all in vain; and the knowledge of their abiding that Torment to Eternity, will make them blaspheme the name of our God continually.</p>
+            <p n="44">44. And the remembrance of their despising of the Declaration and Messengers of that glorious God Christ when they were in mortality, will be as fresh fuel laid upon a fire, for it will make their tormented Souls and Bodies burn more fiercely.</p>
+            <p n="45">45. The Creator hath Decreed that punishment for all unbelievers, that their Souls shall bring forth spiritual dark bodies at the Resurrection, which Souls and bodies will burn together hotter than natural fire and brimstone.</p>
+            <p n="46">46. So on the contrary, when they that are the E<g ref="char:EOLhyphen"/>lect of God shall be in possession of that Kingdom of Glory, where that blessed body of God is, and where <hi>Moses, Elias,</hi> and the holy Angels are resident.</p>
+            <p n="47">47. Then shall we be full of joy unspeakable, where we shall sing Hallelujahs and Prayses unto our God, our King, and our Redeemer, the Lord Jesus Christ.</p>
+            <p n="48">48. And the remembrance of those good actions
+<pb n="10" facs="tcp:206381:14"/>which we acted for Christ in the time of our Mortali<g ref="char:EOLhyphen"/>ty will cause new joys to arise in us▪ And then shall we sing aloud unto our God which sitteth upon the Throne of Glory to Eternity.</p>
+            <p n="49">49. Now we knowing how that the remembrance of good things acted by us in this life will advance our glory in the life to come; let us be sure therefore to do all things, that will be to the glory of God, and honour to his Commission given forth in these our days, of which we are partakers in that we have faith to believe the Report of his last Prophets.</p>
+            <p n="50">50. Again, it is good for us, to leave off frothy dis<g ref="char:EOLhyphen"/>course and simple actions, for such things, when after<g ref="char:EOLhyphen"/>ward considered of do disturb the peace of a Saint.</p>
+            <p n="51">51. Because when such things are acted by Belie<g ref="char:EOLhyphen"/>vers they make words of truth seem as idle Stories to the people of the world, who understand not the power and liberty of Believers in the time of a Commis<g ref="char:EOLhyphen"/>sion.</p>
+            <p n="52">52. But nevertheless I would have all Believers learn to be wise, sober, and moderate in all things; be<g ref="char:EOLhyphen"/>cause when words of truth are spoken by a sober wise man, whose life and conversation is sutable to what he doth declare, his words make a great impression upon the hearts of them that hear him.</p>
+            <p n="53">53. They who love moral Righteousness, though they are ignorant of truth, yet they are very zealous in worshipping of their unknown God, and allow not of any wickedness.</p>
+            <p n="54">54. I say when these sort of ignorant men hear truth spoken and declared by those that they look up<g ref="char:EOLhyphen"/>on to be as Righteous as themselves in all things (ex<g ref="char:EOLhyphen"/>cept worshipping of God in outward Ordinances as
+<pb n="11" facs="tcp:206381:14"/>they do) then are they smitten to the heart.</p>
+            <p n="55">55. When they hear those that know truth, and what the true God is, declare that the worshipping of God in outward Ordinances, to be seen of men is of no value, and that all the righteousness of the Law is of no effect to those that despise the <hi>Witnesses of the Spirit,</hi> and the Doctrine declared by them.</p>
+            <p n="56">56. Then do those and such like words take posses<g ref="char:EOLhyphen"/>sion of the mind of those righteous men which hear them spoken by wise sober men, and they cannot dis<g ref="char:EOLhyphen"/>possess them any more.</p>
+            <p n="57">57. When words of truth have once taken place in the mind of man, either that faith in him doth feed so plentifully on them, that the nourishment it recei<g ref="char:EOLhyphen"/>veth from them causeth it to grow up to the assurance of Eternal life.</p>
+            <p n="58">58. Or else the reason in man is inraged, because it cannot remove those words of truth which have taken possession in the mind.</p>
+            <p n="59">59. So that truth doth torment the minds of those in this life who cannot receive it to the saving of their Souls.</p>
+            <p n="60">60. These things hundreds can witness the truth of by Experience, some to their eternal joy, and others to their everlasting sorrow.</p>
+            <p n="61">61. Thus do we see what power and strength the Ministry of the Spirit hath upon all persons to whom it hath been clearly demonstrated.</p>
+            <p n="62">62. The Righteousness of the Law (as I have said) is a good Ornament to set forth that truth de<g ref="char:EOLhyphen"/>clared by the <hi>Witnesses of the Spirit.</hi>
+            </p>
+            <p n="63">63. Wherefore my earnest desire is that all true Be<g ref="char:EOLhyphen"/>lievers may be dressed therewith, that the Unbelievers
+<pb n="12" facs="tcp:206381:15"/>may have no just cause to speak evil of those men that have saith in the true God.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAP. II. <hi>How hard a matter it is to please the Devil; and what those are to believe that expect comfort by believing; and what Saints are to strive about.</hi>
+            </head>
+            <p n="1">1. I Know there are a sort of people that will find fault with the soberest men living. For if a man be of a melancholy disposition and not of a cheerful spirit, when such a man declareth truth, then its pro<g ref="char:EOLhyphen"/>bable it will be said his melancholly spirit hath made him mad, and they will not mind his words, because they think those things declared by him, are but some whimseys which arise out of his melancholly mind.</p>
+            <p n="2">2. Secondly, if a man be of a merry disposition and given to civil jesting ,then those that are ignorant of truth will be ready to say, this man cannot have that knowledge he professeth to have of God, for if he had he would not be so merry.</p>
+            <p n="3">3. For say they, truth is solid and civil; and though they see no incivility in their mirth, yet they will be finding fault with it, so that it is a very hard matter to please the Devil; I mean the devilish na<g ref="char:EOLhyphen"/>tures of men and women.</p>
+            <p n="4">4. There are many, who are of the seed of the Ser<g ref="char:EOLhyphen"/>pent, that are more zealous in the way of their wor<g ref="char:EOLhyphen"/>shipping the unknown God, and more precise in their words, than many Saints are.</p>
+            <p n="5">
+               <pb n="13" facs="tcp:206381:15"/>5. Therefore it is no marvel to us to hear and know that the Devil or his Ministers are transformed as into Angels of light; for we know who the Devil is, and who are his Ministers.</p>
+            <p n="6">6. We also know that their Pharisaical way of Ceremonial worshipping of their unknown God seem<g ref="char:EOLhyphen"/>eth far more pure to the eye of Reason, than the Saints more plain way of worshipping of that glorified man Christ Jesus in spirit and truth.</p>
+            <p n="7">7. Him they are or ought to know to be the only and alone true God; and truly to know Jesus Christ to be the only true God is life Eternal.</p>
+            <p n="8">8. Therefore by our knowing and true believing that Christ was not only the Son of God and Saviour of the world, but that he alone was the Eternal Fa<g ref="char:EOLhyphen"/>ther, and Creator of both worlds, Angels and Men, we have Eternal life abiding in us.</p>
+            <p n="9">9 And by our knowing the Decree of God from the Creation of the world in his disposing of the two Seeds, the seed of the woman and the feed of the Ser<g ref="char:EOLhyphen"/>pent; and knowing the natures of them, and what they are, is the substance whereby we know the assu<g ref="char:EOLhyphen"/>rance of our Salvation in this life.</p>
+            <p n="10">10. Again, I know many will ask me, <hi>How they shall come to that knowledge whereby they may be assured of their Salvation?</hi>
+            </p>
+            <p n="11">11. To this I answer. There is no other way for a<g ref="char:EOLhyphen"/>ny man to be assured of his Salvation in this life, but by believing that Christ the true God did speak to <hi>John Reeve,</hi> to the hearing of the ear, and that he did give <hi>John Reeve</hi> and <hi>Lodowick Muggleton</hi> Commission to declare his mind unto this bloody and unbelieving world, as is declared by them, and it is not sufficient to believe their Doctrine only.</p>
+            <p n="12">
+               <pb n="14" facs="tcp:206381:16"/>12. For some will say, they believe there is no God but Christ; others will say, they believe the Soul dieth with the body; and some will say, there is no Devil but men and women.</p>
+            <p n="13">13. But I say, That only to believe these things is of no value; for except a man can believe the Do<g ref="char:EOLhyphen"/>ctors to be true, there can be no benefit by their Do<g ref="char:EOLhyphen"/>ctrine declared by them.</p>
+            <p n="14">14. Therefore whosoever expects peace and satis<g ref="char:EOLhyphen"/>faction of mind by the Doctrine declared by the <hi>Wit<g ref="char:EOLhyphen"/>nesses of the Spirit,</hi> they must first set to their seals that they were truly sent forth by the true God, to make his mind known in this our age.</p>
+            <p n="15">15. What man can find any peace or comfort by reading the Scriptures, and believing that <hi>Moses</hi> did punish the Egyptians with several plagues.</p>
+            <p n="16">16. And to believe that the Apostles did cure ma<g ref="char:EOLhyphen"/>ny Diseases, and suffer many punishments to be inflict<g ref="char:EOLhyphen"/>ed upon them for Christ's sake.</p>
+            <p n="17">17. Or to believe that Christ did cast out many De<g ref="char:EOLhyphen"/>vils, and raise the dead; I say to believe these things, and many more that are spoken of in Scripture, and tyet cannot believe that <hi>Moses</hi> was a true Prophet, and hat <hi>Peter</hi> and <hi>Paul</hi> and the rest were true Apostles, or that Jesus was a true Christ?</p>
+            <p n="18">18. I say, they that cannot believe these things can have no true peace or comfort, nor any benefit by be<g ref="char:EOLhyphen"/>lieving any part of the Scriptures.</p>
+            <p n="19">19. Nay if it were possible for a man to believe all that is declared by the Prophets of old, and the Apo<g ref="char:EOLhyphen"/>stles, and by Christ himself, and yet cannot be<g ref="char:EOLhyphen"/>lieve that these men that declared such things were true Ministers, then all their faith is vain and will stand
+<pb n="15" facs="tcp:206381:16"/>them in no stead at the day of the Lord.</p>
+            <p n="20">20. So on the contrary, though there may be ma<g ref="char:EOLhyphen"/>ny temporal failings among the Saints, yet by their true believing in God and his Messengers, all their sins will be forgiven them, and their faith will make them whole.</p>
+            <p n="21">21. But I would not have any true believer take hold of these words of mine, whereby to live in sin, or to lead a corrupt life; for that evil committed by the Saints can no ways be justified, but their sins will be pardoned, because it was for the sins of believers, for which Christ died, and his death was so effectual, that none that truly believe in him shall perish, though their sins be never so great.</p>
+            <p n="22">22. But if there be any believers that do lead a cor<g ref="char:EOLhyphen"/>rupt life, they can have no peace in their minds, be<g ref="char:EOLhyphen"/>cause the corruptness of their natures doth drown that peace which would flow from their faith.</p>
+            <p n="23">23. But all these believers that lead a just and ho<g ref="char:EOLhyphen"/>ly life have the fountain of peace in them which is past the knowledge of man to expose the comfort of it.</p>
+            <p n="24">24. Now let every believer strive to excel each o<g ref="char:EOLhyphen"/>ther in virtue, that their Faith may pour forth like Rivers of living water, that every one which heareth of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e truth may desire to receive it.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. <hi>What an Enemy the Riches of this world is to Truth. And how all things are possible for God to do, which his
+<pb n="16" facs="tcp:206381:17"/>Glory moveth him to do. And how the Worlds Rich<g ref="char:EOLhyphen"/>es is of the nature of a Loadstone.</hi>
+            </head>
+            <p n="1">1. AGain, all those that are willing to yeeld obe<g ref="char:EOLhyphen"/>dience to Faith, whereby they may live in perfect peace in this life; they must be sure to with<g ref="char:EOLhyphen"/>stand the grand Enemies of Truth, which are Riches and Poverty. Therefore doth St. <hi>Paul</hi> desire that he may fed with food convenient for him, neither with Riches lest he should boast, nor with Poverty, lest he should steal.</p>
+            <p n="2">2. First, let no Saint strive for honour in this World, for that is a Cord which draweth many to destru<g ref="char:EOLhyphen"/>ction, both in this life and that which is to come.</p>
+            <p n="3">3. We see how hard a thing it is for any man to joyn with truth that is rich and in honour in this World, because he knoweth that he cannot keep his honour among the Great Ones of this World, if he wor ship God only in spirit and truth.</p>
+            <p n="4">4. Therefore it is in vain for any that have received the truth in the love thereof for to think to keep his spiritual peace in this life, and yet strive to climb up to the top of Mountains in worldly honour; no that cannot possibly be, for before he getteth half way to that estate he aimeth at, he will pluck such stones up<g ref="char:EOLhyphen"/>on his own head that will break his peace and make him wish that he hath been content to walk upon plain ground where he might have been in safety with peace in his mind.</p>
+            <p n="5">5. Whereas now he findeth nothing but distraction and trouble with all those incumbrances wherewith he hath entangled himself to gain the Honor and rich<g ref="char:EOLhyphen"/>es in this World, which is not to be regarded by a spi<g ref="char:EOLhyphen"/>ritual wise man.</p>
+            <p n="6">
+               <pb n="17" facs="tcp:206381:17"/>6. Because they break the peace of the mind and vex the pure peaceable spirit of truth, that envieth no man, nor coveteth after riches, but having where<g ref="char:EOLhyphen"/>with to supply its wants is therewith content.</p>
+            <p n="7">7. Therefore let no man that is a believer make him<g ref="char:EOLhyphen"/>self a servant to iniquity which is vanity, when he is the Lords freeman and may live in purity.</p>
+            <p n="8">8. Secondly, he that setteth his mind so much on this World that he cannot see himself happy without Riches and Honour in this World, though he know there is a Crown of Glory prepared for him hereafter in another World, its a wonder if he be not taken prisoner by those snares which his reason hath lead him into.</p>
+            <p n="9">9. And if he be once taken Captive by the Riches and Honour of this World, which belongeth chiefly to the feed of the scrpent, then it will stop that current of faith, and break his peace with God, so great Ene<g ref="char:EOLhyphen"/>mies are the Riches and Honour of this World to the Spirit of truth.</p>
+            <p n="10">10. And I do believe there are very few but can witness this to be true, that so long as a man is pres<g ref="char:EOLhyphen"/>sing forward to get Riches in this World, or so long as he delighteth to be in worldly Honour, his mind can<g ref="char:EOLhyphen"/>not be at such perfect liberty to mind the things of E<g ref="char:EOLhyphen"/>ternity, as those are who desire no more but so much as will keep them from want, and from being a bur<g ref="char:EOLhyphen"/>then to others.</p>
+            <p n="11">11. By Experience we have seen and known mul<g ref="char:EOLhyphen"/>titudes of sorrows have fallen upon many that have striven to be great in the World.</p>
+            <p n="12">12. And daily may see the many outward afflicti<g ref="char:EOLhyphen"/>ons that fall upon them, because it appeareth pub<g ref="char:EOLhyphen"/>lique
+<pb n="18" facs="tcp:206381:18"/>to us, but what inward grief and trouble there is for the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their Honour or Riches when they are taken from them we know not.</p>
+            <p n="13">13. Therefore let every believer strive to keep his peace with God, for to keep his peace with God, is the greatest Riches and Honour that a Saint can have.</p>
+            <p n="14">14. And to lose that peace which is of more value than a thousand Worlds, how shall he be able to pur<g ref="char:EOLhyphen"/>chase that peace again, when the breaking of it hath wounded his spirit, and a wounded spirit who can bear it.</p>
+            <p n="15">15. Thirdly, do we not see by Experience that most of those that are rich and live in honour in this World, that they are in a miserable Estate in this World upon a spiritual account, for they are kept in so much slavery by their riches and honour that they must yeeld obedience thereunto.</p>
+            <p n="16">16. Therefore when truth is declared to them, and they are convinced in themselves, that it is truth yet they will not imbrace it in love, for fear they should be converted by it, and so lose their Honour in this World.</p>
+            <p n="17">17. So that we may clearly see what great power the Riches and Honour of this World have over them that have tasted so much sweetness by them.</p>
+            <p n="18">18. The Riches of this World are so sweet and the perishing honour which belongeth to it so delightful to enjoy it longer, they will refuse that spiritual Wis<g ref="char:EOLhyphen"/>dom which will lead all those that enjoy it to everla<g ref="char:EOLhyphen"/>sting life, and Glory undeclarable.</p>
+            <p n="19">19. When all those who despise truth shall have their reward, which is an ever-dying-death, which will never have an end.</p>
+            <p n="20">
+               <pb n="19" facs="tcp:206381:18"/>20. Because then the fire of Gods wrath will be kindled in them, which will burn more fierce than a<g ref="char:EOLhyphen"/>ny fire and brimstone in this World, for it will never be cooled or quenched to Eternity.</p>
+            <p n="21">21. But if they did but know the worth of true Wisdom in this life they would not despise it; and there is no true spiritual Wisdom now in this World, but what is declared by the <hi>Witnesses of the Spirit.</hi>
+            </p>
+            <p n="22">22. Therefore all of the seed of Faith, or of the Woman, are hereby exhorted, that as they are ac<g ref="char:EOLhyphen"/>quainted with as pure truths as ever was declared by quainted with as pure truths as ever was declared by and unto men, and many have sucked therefrom so much sweetness as hath given them assurance of their salvation.</p>
+            <p n="23">23. Let us all far more esteem of that Glory and Honour which we shall enjoy with our God, his Pro<g ref="char:EOLhyphen"/>phets and Apostles, the holy Angels, and our fellow-Saints in the Heaven of Glory to Eternity, (having thus in our Eye the Recompence of Reward) than to any Dignity or Honour that can be presented to us in this World.</p>
+            <p n="24">24. And let us slight the Preferment of this World, because we know if we do enjoy it, it will endanger (for the Reasons aforesaid) to break that peace we have with God, which is of far more value than a thou<g ref="char:EOLhyphen"/>sand Worlds.</p>
+            <p n="25">25. Again, shall the seed of the Serpent be willing to lose all the enjoyment of the Glory to come on the other side of death to enjoy their pleasure, or their good things (as they are called) in this life? because they are not certain, or believe not any Resurrection.</p>
+            <p n="26">26. And shall not we be willing to be without the pleasures of this World (which for the most part
+<pb n="20" facs="tcp:206381:19"/>are but the pleasures of sin for a season) being we are fully satisfied that there are Crowns of Glory pre<g ref="char:EOLhyphen"/>pared for us to wear in the Kingdom of Glory.</p>
+            <p n="27">27. Where we shall be in the Presence of our glo<g ref="char:EOLhyphen"/>rious God Christ Jesus who purchased those Crowns of Glory for us, with the death of his most precious Soul, as it is written, <hi>He poured out his Soul unto death.</hi>
+            </p>
+            <p n="28">28. Again, it is written, <hi>The second Adam was a quickning Spirit;</hi> and therein did Christ make it plain<g ref="char:EOLhyphen"/>ly appear that he was that quickning Spirit, because he did quicken his most pretious Soul out of death to life again by his own power, as he had often said, <hi>That he had power to lay down his life, and power to take it up a<g ref="char:EOLhyphen"/>gain.</hi>
+            </p>
+            <p n="29">29. And as sure as his words were spirit and life, so sure did he rise again by his own power, without any additional power from any other God, for there was no God besides himself.</p>
+            <p n="30">30. But I know these will be counted hard sayings to the seed of Reason, who are the seed of the Ser<g ref="char:EOLhyphen"/>pent.</p>
+            <p n="31">31. Although they will professingly say, all things are possible with God, yet they cannot believe that it was possible for God to die; but it was possible for God todie, because it was for his Glory, and there is nothing unpossible with God that his glorious Wisdom moveth him to do.</p>
+            <p n="32">32. I am sure they whose God could not die, they will never be redeemed from sin; for there was no<g ref="char:EOLhyphen"/>thing but the blood of God himself that could wash away the sins of his Elect.</p>
+            <p n="33">33. Therefore they only that do feed on Christ, by
+<pb n="21" facs="tcp:206381:19"/>their true believing that be did lay down his Godhead-life for them, will be saved when he cometh to judge <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he World.</p>
+            <p n="34">34. And for a man to know in this life, that his sins are forgiven, and that he shall dwell with Christ to E<g ref="char:EOLhyphen"/>ternity is riches indeed.</p>
+            <p n="35">35. But for the riches of this world, we see by Ex<g ref="char:EOLhyphen"/>perience that they are not only vanity, but they are also the greatest ensnarements that are to deprive men of Eternal happiness.</p>
+            <p n="36">36. And they have so much as it were of the nature of the Loadstone in them, that if the heart of man be but once touched affectionately with them, it is drawn away with them, and by the strength of them it is hol<g ref="char:EOLhyphen"/>den so fast that it seldom parteth with them, until death by force taketh it away.</p>
+            <p n="37">37. Therefore let none that know the nature and danger hereof suffer themselves to be taken Prisoners by those Powers from which seldom any are released. And you all know that Christ himself said, <hi>It was ea<g ref="char:EOLhyphen"/>sier for a Cammel to go through the eye of a Needle, than for a Rich man to enter into the Kingdom of Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p n="38">38. Again. I know that as People in Christs time said, <hi>But which of the Rulers have believed in him;</hi> so do people now cry, What Noble or Learned men do believe in the <hi>Witnesses of the Spirit,</hi> when they them<g ref="char:EOLhyphen"/>selves are not ignorant what is written, <hi>That few of those that are called Wise, Noble, or Learned are cho<g ref="char:EOLhyphen"/>sen.</hi>
+            </p>
+            <p n="39">39. But if any of the Rulers of this City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or any one that is in any other place of great Au<g ref="char:EOLhyphen"/>thority should have a desire to be acquainted with the
+<pb n="22" facs="tcp:206381:20"/>
+               <hi>Witnesses of the Spirit,</hi> or with some of the Believers of them, it must be done secretly.</p>
+            <p n="40">40. Or else they must come by night as <hi>Nichode<g ref="char:EOLhyphen"/>mus</hi> did to Christ. For those that are in Power and Authority dare not be seen to have any love for that Doctrine which is not allowed by the Supreme Pow<g ref="char:EOLhyphen"/>er of the three Nations for fear they should be brought in Question for their Faith, and so should be put out of their places of Honour in this World.</p>
+            <p n="41">41. I doubt there are many that are Rulers in these Kingdoms that know no more what the true God is, than <hi>Nichodemus</hi> did know how he should be born a<g ref="char:EOLhyphen"/>gain though he was a Master in Israel.</p>
+            <p n="42">42. And it is now as it was in former Ages, if the truth be not declared to be truth by the Rulers and Chief Magistrates, then the Generality of the people will not suffer it to be spoken before them, without cal<g ref="char:EOLhyphen"/>ling it Blasphemy, Heresie, Delusion, or a Lye, or such like Expressions, wherewith they corrupt themselves; <hi>Because they speak evil of those things which they know not,</hi> as it is written by St. <hi>Jude.</hi>
+            </p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP. IV. <hi>How careful people ought to be, in preserving that which they labour for, because Poverty is a great Enemy to Truth, and breaketh the peace of the mind.</hi>
+            </head>
+            <p n="1">1. THough we are not to suffer our selves to be ta<g ref="char:EOLhyphen"/>ken captive by the riches of this world, yet we must provide against the other enemy, which is Poverty.</p>
+            <pb n="23" facs="tcp:206381:20"/>
+            <p>Poverty will be creeping in to take possession if it be not resisted: And though Poverty be of such a con<g ref="char:EOLhyphen"/>trary nature to Riches, whereby no man loveth it, be<g ref="char:EOLhyphen"/>cause it is not delightful, yet where it takes possession, it is not easily flung out again.</p>
+            <p n="2">2. Therefore let no Believer give himself too much liberty, lest Poverty fall upon him, but when he hath him under him, let him keep him down.</p>
+            <p n="3">3. And Poverty is easily kept down with Industry, by him who is willing to labour, and mindful to pre<g ref="char:EOLhyphen"/>serve that which he hath taken great pains for.</p>
+            <p n="4">4. Again, it is not the earning of a great deal of Money in a Day or in a Week that causeth a man and his Family to live comfortably, but the well mana<g ref="char:EOLhyphen"/>ging what he getteth, this I know by Experience.</p>
+            <p n="5">5. I have known several men, though not Belie<g ref="char:EOLhyphen"/>vers, that could by their Trades earn 20, 30, or 40 shillings a week, and some more money, yet by their immoderate living, being given to extreme Wasteful<g ref="char:EOLhyphen"/>ness;</p>
+            <p n="6">6. Or else being given to Idleness, trusting to what they could earn in a day or two in a week, so that their families have lacked both food raiment which was convenient for them.</p>
+            <p n="7">7. When those who could not earn half so much, have by their carefulness lived comfortably, and lack<g ref="char:EOLhyphen"/>ed for nothing that was necessary.</p>
+            <p n="8">8. Therefore let every man observe that old Pro<g ref="char:EOLhyphen"/>verb, <hi>To cut his Coat according to his Cloath,</hi> that is, that he spendeth or layeth out no more than what is agree<g ref="char:EOLhyphen"/>able to his comings in, and then there will be no want.</p>
+            <p n="9">9. Again, I know several whose earnings are but
+<pb n="24" facs="tcp:206381:21"/>small, which will not amount to above six, eight, or ten shillings a week at the most, if they work all the week, and yet these will spend so much of their time idly, and so much of their little earnings wastefully, that they can hardly spare their Family money to buy them bread in time of health and strength.</p>
+            <p n="10">10. But what will become of them then in time of Sickness, Lameness, or Old Age? Surely nothing but sorrow and calamity.</p>
+            <p n="11">11. Poverty doth make people run into many dan<g ref="char:EOLhyphen"/>gers, many will rather adventure their lives by break<g ref="char:EOLhyphen"/>ing the Law, than to want those things that are neces<g ref="char:EOLhyphen"/>sary in this life.</p>
+            <p n="12">12. Most commonly this want is procured either by mens extravagancie in spending their yearly Reve<g ref="char:EOLhyphen"/>nue, or what they have hardly laboured for, or else by mispending their time in idleness.</p>
+            <p n="13">13. I am sure whosoever is guilty of any of these things cannot be at peace in his mind upon a spiritual Account, and therefore Poverty and Wastefulness is an enemy to truth.</p>
+            <p n="14">14. Furthermore, will not the words of a Child cut more sharp than a two-edged Sword, when he shall ask for Bread and his Father or Mother hath none to give him, nor mony to buy food to satisfie their hungry Babewithal; this must lie very heavy upon those who have brought themselves into such a condition by their own wilful extravagancie or idleness.</p>
+            <p n="15">15. But it may be some will say, they have no Children, the cry of a Child cannot trouble them; but if it be the cry of a wife, or of his own poor Soul, be<g ref="char:EOLhyphen"/>ing through sickness, lameness, or old Age brought to want food or rayment, and all for want of a providen<g ref="char:EOLhyphen"/>tial
+<pb n="25" facs="tcp:206381:21"/>care in the time of his health to keep something to help him at such a time when comfort is required; these things must needs break the peace of the mind; therefore poverty is an enemy to truth.</p>
+            <p n="16">16. Though we are commanded to love our Ene<g ref="char:EOLhyphen"/>mies, yet we are not to love such Enemies as will break our peace with God, which these Enemies before mentioned will do, if we make a league with them; and it is written, <hi>He that provideth not for himself and his family is worse than an infidel.</hi>
+            </p>
+            <p n="17">17. I hope no Believer will be guilty of that sin; neither are we to take hold of those words, <hi>Take no care for to morrow,</hi> but let the day bring forth with it self; for those words were chiefly spoken to the Apo<g ref="char:EOLhyphen"/>stles, and those whom they had ordained to be fellow-labourers with them in the Gospel of Christ.</p>
+            <p n="18">18. They indeed were not to take scrip, nor staff, nor two Coats apiece, signifying that they were not to take care in this life for any thing but to seed the Church with the Gospel of truth, and temporal ne<g ref="char:EOLhyphen"/>cessaries should be added, as it is written, <hi>They that preach the Gospel shall live by the Gospel.</hi>
+            </p>
+            <p n="19">19. Nevertheless St. <hi>Paul</hi> saith, that his hands mi<g ref="char:EOLhyphen"/>nistred to his necessities, rather than he would be a burthen to the Church.</p>
+            <p n="20">20. Therefore let all Believers take such care, that by their labour or lawful industry they may be able to minister to their own necessities without being a bur<g ref="char:EOLhyphen"/>then to the Church, which are the Houshold of faithful people: And that they may have something to spare, because it is a greater blessing to give than to receive.</p>
+            <p n="21">21. I write these things to encourage Believers and
+<pb n="26" facs="tcp:206381:22"/>all other civil people to be careful and industrious in the time of their health and strength, and when they have store of imployment to lay by something to help them when either their health, strength, or imploy<g ref="char:EOLhyphen"/>ment faileth them.</p>
+            <p n="22">22. Then is the time of their necessity, and in time of necessity and want of bread the peace of a mans mind is broken, and he hath no more liberty and free<g ref="char:EOLhyphen"/>dom in his mind, to mind the glorious things of Eter<g ref="char:EOLhyphen"/>nity, than he hath whose mind is intangled with the Riches and Honour of the World, therefore Poverty is an enemy to Truth.</p>
+            <p n="23">23. When Poverty is come, then doth the thrift<g ref="char:EOLhyphen"/>less man begin to imploy his mind altogother on world<g ref="char:EOLhyphen"/>ly things and matters, how he shall escape that great danger he hath brought himself into.</p>
+            <p n="24">24. To steal he is afraid, to beg he is ashamed, his Credit is so bad no body will trust him, and in this Condition there can be no peace.</p>
+            <p n="25">25. Neither can the effects thereof prove good, for he must be forced either to beg, or to take some evil course at last, except some friend or friends do take pi<g ref="char:EOLhyphen"/>ty on him, and relieve him.</p>
+            <p n="26">26. Then if he be by that means brought to see all his former folly, and to repent of it, then the taste of want hath proved good to him.</p>
+            <p n="27">27. But for my part, I cannot understand what pleasure or delight any man can take in spending and consuming that mony in waste which they labour for, when they are sensible what a sad condition many peo<g ref="char:EOLhyphen"/>ple have brought themselves into by the like extra<g ref="char:EOLhyphen"/>vagancie.</p>
+            <p n="28">28. Let these things therefore be an example to all
+<pb n="27" facs="tcp:206381:22"/>Believers, lest they should be taken in the same snares with the wicked, and so should undergoe that punish<g ref="char:EOLhyphen"/>ment due to them, which is to want all temporal com<g ref="char:EOLhyphen"/>forts, besides that horror which will be upon the mind for the dishonouring that Truth of which they are partakers.</p>
+            <p n="29">29. Though it is written, <hi>Those that are poor in this world and rich in Faith are Heirs of the Kingdom of Heaven,</hi> yet that was not written to encourage any be<g ref="char:EOLhyphen"/>liever to live in idleness, or to spend his mony or time wastefully, whereby to keep himself poor, for Poverty (as beforesaid) is an enemy to truth and to the peace of the mind.</p>
+            <p n="30">30. Also be that is rich in Faith hath that Riches of Temporal wisdom in him to use the uttermost of his endeavours to keep himself and family from want<g ref="char:EOLhyphen"/>ing temporal comforts in this life.</p>
+            <p n="31">31. If there be any Believer that hath been indu<g ref="char:EOLhyphen"/>strious in his calling, and careful to maintain himself and family to the uttermost of his power, not waste<g ref="char:EOLhyphen"/>ing his time or mony idly, I say, if such an one should be brought very low and poor, by either losses, sickness, greatness of charge, having many Children, old Age, Persecution, or such like causes, I have not written any thing here to hinder those from being re<g ref="char:EOLhyphen"/>lieved.</p>
+            <p n="32">32. It doth make my Soul to mourn, when I hear of a Believer to want food or rayment which is con<g ref="char:EOLhyphen"/>venient for them, and I have always been willing to help such poor Believers, and ever shall be if I have it to give.</p>
+            <p n="33">33. And I would have all Believers according to their ability to be willing to help such poor Belie<g ref="char:EOLhyphen"/>vers
+<pb n="28" facs="tcp:206381:23"/>whose Poverty comes not by their own wil<g ref="char:EOLhyphen"/>ful extravagancies.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAP. V. <hi>How people ought to be moderate in all things: The com<g ref="char:EOLhyphen"/>fort of Moderation, and the discomfort of Immo<g ref="char:EOLhyphen"/>deration, Excess and Extravagancie.</hi>
+            </head>
+            <p n="1">1. MOreover, I would have all Believers learn to be moderate and temperate in all things; for immoderation and intemperateness destroyeth ma<g ref="char:EOLhyphen"/>ny a man, both body and Estate.</p>
+            <p n="2">2. For we see by experience that they who are ex<g ref="char:EOLhyphen"/>tremely given to drinking, that it doth not only waste their Estate, but it doth also destroy their health and disorder their Bodies so much, that no wise man will become a slave unto it.</p>
+            <p n="3">3. All sorts of strong drink doth disturb the Head, Stomach, and Minds of Men if they drink to excess; Wherefore then should any man take delight in it? Especially those that know truth? They should ab<g ref="char:EOLhyphen"/>hor the vanity of that vice which maketh men unca<g ref="char:EOLhyphen"/>pable to know themselves.</p>
+            <p n="4">4. Secondly, it is not good for any man to do great<g ref="char:EOLhyphen"/>er work than his strength is able to bear; for though at the present not felt, yet after the prime of his years are past, then he begins to feel the want of that natural strength which he had destroyed.</p>
+            <p n="5">5. And care herein is to be had not to over-lift, or carry over-heavy burthens, or to over-heat ones self in any manner of labour whatsoever in the time of health
+<pb n="29" facs="tcp:206381:23"/>and strength whereby to earn extraordinary wa<g ref="char:EOLhyphen"/>ges.</p>
+            <p n="6">6. Then when sickness or lameness cometh by this over-hard working, that mony is quickly spent; and besides that, if he recover, yet he is hardly able to work at all when he groweth a little more into years.</p>
+            <p n="7">7. We may observe that Moderation in all things is good in work as well as in other things, for he that worketh moderately, and worketh six days in a Week, shall bring home more money to his Family, and keep his health and strength better than he that work<g ref="char:EOLhyphen"/>eth extreme hard for three or four days in a Week, and then playeth the rest, and spendeth what he hath hard<g ref="char:EOLhyphen"/>ly laboured for in idle Company.</p>
+            <p n="8">8. Therefore I desire every Believer to take good observation of all these things, and consider well of them; and then that which he findeth to be most to the Glory of God, and the peace of his own mind, let him so practise.</p>
+            <p n="9">9. Again, let all Believers strive to be moderate and temperate in their spirits, not suffering passion to oversway them; for many times Oathes are apt to break out of the mouths of men in their passion.</p>
+            <p n="10">10. However, if not Oaths, unseemly words are spoken at such a time, and it is that <hi>which cometh out of the mouth that defileth the man:</hi> And what is that which cometh out of the mouth to defile a man? No<g ref="char:EOLhyphen"/>thing but vain words, and blaspheming.</p>
+            <p n="11">11. And I would not have any Saint to be guilty of blasphemy, or vain words to defile himself.</p>
+            <p n="12">12. Not but that I know every true believer hath so much Faith as will keep him from blaspheming against God, but there may be some that may be apt to speak
+<pb n="30" facs="tcp:206381:24"/>evil of men undeservedly or unadvisedly.</p>
+            <p n="13">13. And whosoever doth speak evil of a man blasphemeth against him, by bringing a reproach up<g ref="char:EOLhyphen"/>on his name; and who ever doth evil to any man sin<g ref="char:EOLhyphen"/>neth against him.</p>
+            <p n="14">14. Such are those sins and blasphemies against man which will be forgiven, but they will defile the mind abundantly, and break its peace exceedingly, therefore let no such corruption dwell with Belie<g ref="char:EOLhyphen"/>vers.</p>
+            <p n="15">15. Thirdly, let all Believers take special care that they do not give themselves to lasciviousness; Fornica<g ref="char:EOLhyphen"/>tion and Adultery are crying sins: there is no tempo<g ref="char:EOLhyphen"/>ral sin can lie heavier upon the Conscience, except Murther, Therefore let all Believers be sure to keep themselves from all actual sins.</p>
+            <p n="16">16. Again, let all believers be sure to keep their word of promise upon a temporal Account; for it is the Credit and Reputation of a man in this life to keep his word and promise.</p>
+            <p n="17">17. For when once a mans word will not be taken because it is usual with him to break his promise, then his Reputation sinketh, and no man will trust him with any thing of value.</p>
+            <p n="18">18. Lastly, above all things, let all Believers be sure that they keep close to the Truth, so that they do not go a whoring after strange Gods, nor suffer themselves to be defiled with worshipping of Idols.</p>
+            <p n="19">19. The sin of Idolatry is as bad as the sin of witchcraft, and the committing of fornication with Idols, is worse than any Temporal Fornication or Whoredom, for the one defileth the body and the o<g ref="char:EOLhyphen"/>ther defileth the Spirit.</p>
+            <p n="20">
+               <pb n="31" facs="tcp:206381:24"/>20. No man can say his heart is perfect to the Lord God, when he cannot refrain from going to wor<g ref="char:EOLhyphen"/>ship among those that know not God, and bow him<g ref="char:EOLhyphen"/>self to Idols.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>CHAP. VI. <hi>Every true Believer is Heir to the Kingdom of Heaven, because he is free-born, and free by Redemption.</hi>
+            </head>
+            <p n="1">1. WHoever they are that are Believers, yet by that corrupted Reason in them have been overcome to commit evil in any sort whatsoever, they can witness the Torment belonging to it in themselves, and thereby they learn to do righteously ever after, ha<g ref="char:EOLhyphen"/>ving by experience found the difference between do<g ref="char:EOLhyphen"/>ing good and evil.</p>
+            <p n="2">2. In the Apostles time there were some Believers, that through the occasion of sin had such operations in them knowing by experience the difference be<g ref="char:EOLhyphen"/>tween doing good and evil, that they were able to de<g ref="char:EOLhyphen"/>clare unto other Believers what afflictions they had undergone within themselves for doing those things that were contrary to the Spirit of Truth.</p>
+            <p n="3">3. They having by Faith overcome those operati<g ref="char:EOLhyphen"/>ons, were made the more able to withstand them af<g ref="char:EOLhyphen"/>terwards; yet nevertheless lest any Believers should through the Temptation fall wilfully into sin, think<g ref="char:EOLhyphen"/>ing thereby to be made stronger in Faith, St. <hi>Paul</hi> said, <hi>Shall we sin that Grace may abound? God for<g ref="char:EOLhyphen"/>bid.</hi>
+            </p>
+            <p n="4">
+               <pb n="32" facs="tcp:206381:25"/>4. Therefore it is a greater comfort for all men, e<g ref="char:EOLhyphen"/>specially Believers to live innocently all the dayes of their lives, than for them to fall once into sin, though by the forgiveness thereof they are made more able to withstand Temptations afterwards.</p>
+            <p n="5">5. It is the best for all Believers to learn to be tem<g ref="char:EOLhyphen"/>perate and wise, and well to consider the effects that will follow their actions, whereby there may be no cause of Repentance afterwards, then shall we keep our peace with God and man.</p>
+            <p n="6">6. If we do not keep our peace, then are we in bon<g ref="char:EOLhyphen"/>dage, and why should we suffer our selves to be carri<g ref="char:EOLhyphen"/>ed into bondage by iniquity, when as our Faith and Knowledge leadeth us to live in purity.</p>
+            <p n="7">7. We who are Believers are both Free-born, and Free by Redemption.</p>
+            <p>First, we are Free-born, because we are of the seed of Faith, called the Seed of Gods own body, which seed is Heir to the Kingdom of Heaven by birth.</p>
+            <p n="8">8. Secondly, We are free by Redemption, because our God paid a great Ransome for us to redeem us from sin and iniquity.</p>
+            <p n="9">9. Our sins, that is the sins of the Elect, were so great that no other price could satisfie that Debt, but the death of the Godhead only.</p>
+            <p n="10">10. That God who created the World, so loved the World, that is the world of Elect; or the Elect in the world, that for their sakes alone did he lay down his Godhead-life for a moment in shame.</p>
+            <p n="11">11. That is, he suffered that shameful death upon the Cross, betwixt two Thieves, whereby <hi>he was num<g ref="char:EOLhyphen"/>bred among Transgressors,</hi> and all that was, that he might gain to himself power to raise all those to Eter<g ref="char:EOLhyphen"/>nal
+<pb n="33" facs="tcp:206381:25"/>life and glory with himself, that had had faith to believe.</p>
+            <p n="12">12. That according to his promise he would send his Son, or become a Child himself in Mortality, and all those that had faith to believe that he was the Messiah and Saviour of the world when he was come.</p>
+            <p n="13">13. And all those that now can truly believe, that he is Father, Son, and Holy Spirit, in one Single Person Glorified, he laid down his Godhead life for.</p>
+            <p n="14">14. And also by laying down his said life, and ri<g ref="char:EOLhyphen"/>sing again, he purchased for himself a double Crown of Glory and Honour.</p>
+            <p n="15">15. Before Eternity became time, and time became Eternity again, that is, before God became a pure mortal man, and afterwards immortalized himself a<g ref="char:EOLhyphen"/>gain, which is a riddle too hard for the seed of the Ser<g ref="char:EOLhyphen"/>pent to understand.</p>
+            <p n="16">16. I say, before that blessed time God had the glo<g ref="char:EOLhyphen"/>ry and honour of a Creator only; but by his death and rising again he hath now the glory and honour of the Redeemer and Saviour of the world; therefore accor<g ref="char:EOLhyphen"/>ding to his own promise, as it is written in <hi>Isaiah, His Glory is not given to another.</hi>
+            </p>
+            <p n="17">17. And as he purchased a double Glory to him<g ref="char:EOLhyphen"/>self, so likewise hath he purchased Eternal life and glory for us who do truly believe him to be the only and alone wise God.</p>
+            <p n="18">18. And also by his Death and Resurrection he hath purchased for the unbelieving Reprobates everlasting Torments that will never end.</p>
+            <p n="19">19. What manner of lives therefore ought we to live being we are sensible for what end and purpose
+<pb n="34" facs="tcp:206381:26"/>the Creator of Heaven and Earth laid down his life.</p>
+            <p n="20">20. Therefore let us strive always to do those things which we know to be well pleasing to our God, be<g ref="char:EOLhyphen"/>cause we only are the true believers of the <hi>Witnesses of the Spirit,</hi> which is the Lords third and last Commis<g ref="char:EOLhyphen"/>sion or Testament, and so are a peculiar people in this Generation, knowing more of the mind of God, than any believers did in times past.</p>
+            <p n="21">21. Wherefore let not us darken this great and mar<g ref="char:EOLhyphen"/>vellous light by any unseemly carriage, but let us ab<g ref="char:EOLhyphen"/>stain from all manner of evil that may any way break our peace, or beget a Civil war within us.</p>
+            <p n="22">22. Which war will not be ended until we lay down those weapons, wherewith we fight against that Truth by which we have received the assurance of our Salvation.</p>
+            <p n="23">23. And by Repentance make our peace again, and cease from all manner of evil, then by well do<g ref="char:EOLhyphen"/>ing we shall not only keep our peace with God, but we shall also put to silence all those that shall speak evil of Truth.</p>
+            <p n="24">24. They being ignorant of the power of Faith, which we have by believing Commissonated men, that had then Commission and Power given them from Christ himself.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>CHAP. VII. <hi>When any evil is committed by a Believer, it stoppeth the current of his Faith: Yet it is the heart that God min<g ref="char:EOLhyphen"/>deth,
+<pb n="35" facs="tcp:206381:26"/>and not the outward appearance. That every Believer should weed his own Garden.</hi>
+            </head>
+            <p n="1">1. WE who are Believers of the Commission and Testament before expressed, know<g ref="char:EOLhyphen"/>ing that we have our hearts purified by obeying the Truth, and having unfained love to the Prophets of the Lord for the Truths sake: Let us love all purity for that belongeth to truth. <hi>Blessed are the pure in heart, for they shall see God.</hi>
+            </p>
+            <p n="2">2. This also may every believer witness by experi<g ref="char:EOLhyphen"/>ence, that whenever he committeth any manner of e<g ref="char:EOLhyphen"/>vil that evil committed by him as it hath, so it will hinder and stop the current of the Well-spring of Faith in him, and make it seem as if it were dried up, until it beginneth to spring forth again by Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p n="3">3. I witness this by experience in my self, and I know there are very few believers (if any at all) but they will witness the same, having had at one time or other a taste of it, or will do it when ever they take a particular account of their folly.</p>
+            <p n="4">4. Therefore I would have all Believers to muster up all their follies, and the forces of them together, and disband them, and have no more service for those Souldiers of vanity who fight against truth.</p>
+            <p n="5">5. Yet for all this, I know it is the heart God mind<g ref="char:EOLhyphen"/>eth, and not the outward appearance: but by the out<g ref="char:EOLhyphen"/>ward appearance men are apt to judge either good or evil, but it is only they who see by the eye of Faith, and that know the nature of the two Seeds (of the serpent and of the woman) that can give true judgment upon the Eternal condition of men.</p>
+            <p n="6">
+               <pb n="36" facs="tcp:206381:27"/>6. Let mens outward appearances be what they will, by their words they shall be either justified or con<g ref="char:EOLhyphen"/>demned: for as there are many that make a great pro<g ref="char:EOLhyphen"/>fession of Righteousness, and in their dealings are very just so that none can accuse them for any evil, yet by their despising of Truth, We know them to be Re<g ref="char:EOLhyphen"/>probates.</p>
+            <p n="7">7. So on the contrary, there may be some of the Seed of Faith, that by their lives and Conversations are not by the world discerned to have any thing of true knowledge in them by the outward appearance, because they are full of folly, as being given to just<g ref="char:EOLhyphen"/>ing, fudling, breaking their promises, or such like.</p>
+            <p n="8">8. Which things are not at all justified and in being, and doing so, they break their own peace as aforesaid; &amp; to the zealous sort of the seed of Reason, it is so ridi<g ref="char:EOLhyphen"/>culous, that they think there can be no true Faith, where there is not a Pharisaical holiness to be seen of men.</p>
+            <p n="9">9. Yet these Believers, which by the world are ac<g ref="char:EOLhyphen"/>counted sinners, shall at the day of the Lord appear all glorious, and be Crowned with honour, because they had true Faith, and did truly believe that Christ was the only and alone wise God, and that his Mes<g ref="char:EOLhyphen"/>sengers were true Prophets, and that the Doctrine de<g ref="char:EOLhyphen"/>clared by them was true also; therefore it is by Faith, and not by outward appearance that men are justified by in the sight of God.</p>
+            <p n="10">10. Now even hereupon let all true Believers learn to be wise and moderate in all things upon a tempo<g ref="char:EOLhyphen"/>ral account, that they give not offence to others.</p>
+            <p n="11">11. Neither let Believers who walk in the Light, lay stumbling-blocks for others to fall at, who walk in darkness; but rather labour to remove all stumbling
+<pb n="37" facs="tcp:206381:27"/>stones out of the way, by a pure and holy life.</p>
+            <p n="12">12. That we by our upright living may be a means to draw others from their corrupt lives to a pure and holy conversation.</p>
+            <p n="13">13. And sure I am, that there is none of the seed of faith, who have in any sort led a corrupt life, but they are made sensible of their folly by those afflictions which have fallen upon their minds, by not keeping themselves unspotted to the world.</p>
+            <p n="14">14. That inward punishment is so uneasie, nay sharp to bear, that it will cause all who have true faith to weed their Gardens so clean from all manner of evil Weeds, that the pure flower of Faith may spread it self forth.</p>
+            <p n="15">15. Then will the Truth gloriously shine forth in all those Believers who have dispersed the Clouds of vanity, and cast out the weeds of folly.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>CHAP. VIII. <hi>He is not accounted a wise man that will wilfully wound himself. How we may know when our sins are for<g ref="char:EOLhyphen"/>given.</hi>
+            </head>
+            <p n="1">1. NOne will account that man wise who will take a Sword or Knife in his hand and wound himself wilfully, when he knoweth it will put him to a great deal of pain so soon as it is done, be<g ref="char:EOLhyphen"/>sides the lamentable misery he must endure in the cu<g ref="char:EOLhyphen"/>ring of it again.</p>
+            <p n="2">2. Every time his wound is dressed or touched, it pains him more than the making of the wound, which
+<pb n="38" facs="tcp:206381:28"/>he made in his hasty humour, also there will be a ble<g ref="char:EOLhyphen"/>mish in the skin a great while after, if ever it do grow out at all.</p>
+            <p n="3">3. And so it is upon a spiritual account. None will take that man to be a spiritual wise man, that will wilfully break and wound his own peace, by break<g ref="char:EOLhyphen"/>ing the Law, or walking any way disorderly, contrary to the Law of Faith.</p>
+            <p n="4">4. He that is faithful knoweth that he shall endure greater affliction upon his mind after he hath commit<g ref="char:EOLhyphen"/>ted evil, then at the time he had pleasure in the committing of it.</p>
+            <p n="5">5. As a wound that is deep in the flesh is more grie<g ref="char:EOLhyphen"/>vous and terrible to the Patient than it was pleasant at the time of wounding; so likewise is every sin or evil in the guilt of it more terrible to a man that hath true faith, when afterwards he considereth what he hath done, than the delight he had in the time of the acting thereof, that he may say, <hi>It was but indeed the plea<g ref="char:EOLhyphen"/>sure of sin for a season.</hi>
+            </p>
+            <p n="6">6. Every time the remembrance of it cometh into his mind it striketh him to the heart, and woundeth his spirit; and a wounded spirit who is able to bear it.</p>
+            <p n="7">7. The reflection of evil upon a mans mind is much like the dressing of a deep wound in the flesh. And as a wound in the flesh must be often drest, so must he that is faithful, and yet committeth evil expect to hear often of it. Therefore let all believers learn to be wise and keep themselves unspotted to the world.</p>
+            <p n="8">8. Again, the blemish and reproach that will be upon a Believers name for being accounted a sinner, will remain a long time before it be forgotten, if ever it wear out of memory.</p>
+            <p n="9">
+               <pb n="39" facs="tcp:206381:28"/>9. Therefore let us that know the truth be an exam<g ref="char:EOLunhyphen"/>ple to others in all things that are just and honest both in our words and in the purity of our lives and conver<g ref="char:EOLhyphen"/>sations, that all those who are in the truth, and they who shall come to the knowledge of the truth after us, may rejoyce in the publishing of our names, and not to be ashamed to make mention of us.</p>
+            <p n="10">10. To him that knoweth how to do well and do<g ref="char:EOLhyphen"/>eth it not, to him it is sin. Therefore let all true Be<g ref="char:EOLhyphen"/>lievers learn to do that which is justifiable both before God and man.</p>
+            <p n="11">11. There are but two things which a Saint hath to mind, that is to keep peace with God and himself unspotted in the world, and then he may appear with boldness before the Throne of Grace.</p>
+            <p n="12">12. Therefore let all Believers be sure to wash their hearts clean with the spirit of Truth; for if there be any evil hid in the heart, that the world knoweth not of whereby to accuse them; yet that Watchman which God hath set in the hearts of all men to watch their actions will accuse them, if there be any evil lodged in the heart never so secretly.</p>
+            <p n="13">13. And this Watchman is the Law written in our natures; if that can accuse us, then may we be assu<g ref="char:EOLhyphen"/>red to appear before the Judge of Heaven and Earth, because we have broken that peace which we had with him.</p>
+            <p n="14">14. But if we have broken that peace, then we must be sure to make our peace again by Repentance, and hereby we may know whether our peace be made with God again, or no.</p>
+            <p n="15">15. First, if we do acknowledge in our selves that we have broke his Law, or done contrary to the Light
+<pb n="40" facs="tcp:206381:29"/>of Faith which is Gods Divine Nature, which as the Apostle speaks, the Saints or Believers are partakers of.</p>
+            <p>Secondly, if we do find in our selves a hearty sor<g ref="char:EOLhyphen"/>row fulness, whereby we do truly repent that we have offended our God, in sinning against so great a Light.</p>
+            <p n="16">16. Also thirdly, if after this Repentance we do forsake all those evil ways which broke our peace, and keep close to the Truth in well doing.</p>
+            <p n="17">17. Then may we be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssured that all our Transgres<g ref="char:EOLhyphen"/>sions are forgiven, and with boldness appear before the Throne of Grace, because our sins are blotted out, and will no more be brought into remembrance.</p>
+         </div>
+         <div n="9" type="chapter">
+            <head>CHAP. IX. <hi>How Eternity became Time: and the Eternal Father be<g ref="char:EOLhyphen"/>came a Son, born of a Virgin. Now is the Prophe<g ref="char:EOLhyphen"/>sie of</hi> Isaiah <hi>fulfilled.</hi>
+            </head>
+            <p n="1">1. Let us set our Affections wholly on things a<g ref="char:EOLhyphen"/>bove, which we know do give the most and only satisfaction to the Soul and mind of man, so that we may appear to be the Elect of God, to whom God hath by his last true Prophets revealed and made known the riches of his Glory.</p>
+            <p n="2">2. Whereby we know how that it was the pleasure of the Glorious God in Heaven above the Stars for a time to leave his Glorious Throne, and to descend into the lower parts of the Earth.</p>
+            <p n="3">3. That Earth which God descended into was the
+<pb n="41" facs="tcp:206381:30"/>Virgins womb, therefore it is written, <hi>He descended into the lower parts of the earth;</hi> and I am assured that it cannot be proved by Faith, Reason, or Scriptures, that God did otherwise descend into any part of the Earth on which we tread.</p>
+            <p n="4">4. And the most high and holy God, the wise Crea<g ref="char:EOLhyphen"/>tor of all things was pleased to descend from his im<g ref="char:EOLhyphen"/>mortal Throne of Glory into the womb of a Virgin who was but an earthly Creature, because she was ge<g ref="char:EOLhyphen"/>nerated from the first <hi>Adam,</hi> who was made of the dust of the earth.</p>
+            <p n="5">5. Yet she was a Virgin, and her Seed was pure and undefiled, and in her Womb did the Immortal God, Mortalize and dissolve himself into Seed, and then did Eternity become time, and there did the wise Creator cloath his Godhead-Spirit with flesh and bones as with a Garment.</p>
+            <p n="6">6. The Virgin-wise <hi>Mary</hi> brought forth her First<g ref="char:EOLhyphen"/>born, the Son of God, and the Eternal Father and Creator himself. Therefore it is written, <hi>He was in the World, and the World was made by him, but the world knew him not, when he was manifested in the flesh.</hi> Also it is written, <hi>In him</hi> (that is, in Christ) <hi>dwelleth all the fulness of the Godhead bodily.</hi>
+            </p>
+            <p n="7">7. Again it is written, <hi>Isaiah</hi> 43.3. <hi>I am the Lord thy God, the Holy One of Israel, thy Saviour.</hi> Ver. 11. <hi>I, even I, am the Lord, and besides me there is no Savi<g ref="char:EOLhyphen"/>our.</hi> Chap. 44. ver. 6. <hi>I am the first, and I am the last, and besides me there is no God.</hi> Chap. 42. ver. 8. <hi>I am the Lord, that is my Name, and my Glory I will not give to another.</hi> And in the 9th. Chapt. ver. 6. <hi>For unto us a Child is born, unto us a Son is given, and the Govern<g ref="char:EOLhyphen"/>ment shall be upon his shoulders, and his Name shall be
+<pb n="42" facs="tcp:206381:31"/>called the wonderful Councellour, the Mighty God, the everlasting Father, the Prince of Peace.</hi> These things were spoken by the Prophets long before Christ was born; whereby the Eye of Faith can clearly see, that there is no other God but that Christ, which was God manifested <hi>in the flesh, seen of Angels preached unto the Gentiles, believed on in the World, received up into Glory.</hi>
+            </p>
+            <p n="8">8. And therefore Time is become Eternity again, and Mortality is immortalized; and that God Christ is glorified with the same glory that he had before he became a Child.</p>
+            <p n="9">9. And since he was glorified, he hath said, <hi>I am Alpha and Omega, the Beginning and the Ending, saith the Lord, which is, and which was, and which is to come, the Almighty.</hi> And again, saith he, <hi>I am the First and the Last, I am he that was dead, and am alive, and behold, I live for evermore.</hi>
+            </p>
+            <p n="10">10. Thus it is plain to all that have true Faith, that Immortality became Mortal, and that Mortality is be<g ref="char:EOLhyphen"/>come Immortal again: for had not God become mor<g ref="char:EOLhyphen"/>tal, he could not have suffered that death upon the Cross; and were not mortallity raised up to immorta<g ref="char:EOLhyphen"/>lity, he could not live for evermore.</p>
+            <p n="11">11. Thus doth Faith see how Eternity became Time, and how Time is become Eternity again, and that Christ was the Creator as well as the Redeemer. Many more places of Scripture there are to prove the same, which I shall not name them here.</p>
+            <p n="12">12. I am sure it is life Eternal to know the true God, and there is no other true God but Christ, and for this our Faith do we suffer reproach, because we do trust in the living God, who is a God of a glorious Form and Substance.</p>
+            <p n="13">
+               <pb n="43" facs="tcp:206381:31"/>13. But blessed and happy are all those that suffer Re<g ref="char:EOLhyphen"/>proach only for having faith to believe in the true God. Now is that Prophesie of <hi>Isaiah</hi> fulfilled, in that he said, <hi>That Child and Son who was born and given to us, should be called the mighty God, the Everlasting Father, the Prince of Peace.</hi>
+            </p>
+            <p n="14">14. For now have the <hi>Witnesses of the Spirit</hi> decla<g ref="char:EOLhyphen"/>red, that Christ is both Father, Son, and Holy Spirit, in one single Person glorified, and there is no Salva<g ref="char:EOLhyphen"/>tion to be had without believing their report.</p>
+            <p n="15">15. From hence I desire, and earnestly exhort all the Seed of Faith, who are already come, or shall hereaf<g ref="char:EOLhyphen"/>ter come to the knowledge of this blessed Truth, to be very careful and sure to keep their peace with God, by keeping close to the Truth, and keeping themselves unspotted to the World.</p>
+            <p n="16">16. Because it hath been the good will and plea<g ref="char:EOLhyphen"/>sure of our God to reveal unto us by the mouth and Pen of his last true Prophets, many things which were not revealed to any Age before; therefore we may justly say, we do know more of the mind of God than any Believers did in any Age before us.</p>
+            <p n="17">17. We know what was declared by the true Pro<g ref="char:EOLhyphen"/>phets of old, &amp; the Believers in their time could know no more than what was then declared to them: and tru<g ref="char:EOLhyphen"/>ly to believe what was declared was sufficient for them.</p>
+            <p n="18">18. And the Believers in the Apostles time knew what was declared by the Prophets and what was de<g ref="char:EOLhyphen"/>clared by the Apostles also: so that they had a two<g ref="char:EOLhyphen"/>fold knowledge whereby they knew more of the mind of God than those Believers did, who lived in the for<g ref="char:EOLhyphen"/>mer Prophets time.</p>
+            <p n="19">19. The Apostles Doctrine was not the same that the Prophets before them was, yet it agreed with the
+<pb n="44" facs="tcp:206381:32"/>same; for as the Prophets had declared that the Mes<g ref="char:EOLhyphen"/>siah, or Son of God and Saviour of the World should beborn of a Virgin, and that he should have those Titles due to him, which was to be called, <hi>The Migh<g ref="char:EOLhyphen"/>ty God, and the Everlasting Father.</hi>
+            </p>
+            <p n="20">20. So likewise did the Apostles declare that he was come, and that Jesus the supposed Son of <hi>Joseph</hi> was the Son of God and Saviour of the World, and that the Jews had put to death the Lord of life, and that that was the Blood of God which was shed upon the Cross; thus the Apostles Doctrine did agree with the Doctrine which the Prophets of old had declared.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>CHAP. X. <hi>How the Believers of the</hi> Witnesses of the Spirit <hi>have a threefold Knowledge; and the</hi> Witnesses of the Spi<g ref="char:EOLhyphen"/>rit, <hi>are the third and last Witnesses that God will send on this Earth, to declare his mind unto the World.</hi>
+            </head>
+            <p n="1">1. ANd we who are Believers of the <hi>Witnesses of the Spirit,</hi> know what was declared by the holy Prophets of old, and also what was declared by the Apostles, and we do firmly believe that their De<g ref="char:EOLhyphen"/>clarations are true.</p>
+            <p n="2">2. And we do also know and believe what is decla<g ref="char:EOLhyphen"/>red by the <hi>Witnesses of the Spirit</hi> to be true, whereby we have a threefold knowledge; though the Declaration or Doctrine of the <hi>Witnesses of the Spirit</hi> is not the same as the Prophets and Apostles were, yet it doth agree with them.</p>
+            <p n="3">
+               <pb n="45" facs="tcp:206381:32"/>3. For as the true Prophets of old did declare that the God of <hi>Israel</hi> was the true God, and that besides him there was no Saviour, and that God would not give his Glory to another.</p>
+            <p n="4">4. And as the Apostles do declare, <hi>That the Word was God, and that Word was made Flesh, and dwelt a<g ref="char:EOLhyphen"/>mong them, and that he was manifested in the flesh, and that in him was all fulness, and that the fulness of the God<g ref="char:EOLhyphen"/>head dwelt bodily in Christ.</hi>
+            </p>
+            <p n="5">5. So likewise in confirmation of the true Prophets prophesie, and of the Apostles Declaration, do the <hi>Witnesses of the Spirit</hi> positively affirm and declare a<g ref="char:EOLhyphen"/>gainst Men and Angels that shall deny it, that there is no other God but that <hi>Jehovah,</hi> who is called <hi>the mighty God of Jacob,</hi> and <hi>Holy One of Israel,</hi> who af<g ref="char:EOLhyphen"/>terwards, according to the Report of the Prophet <hi>Isai<g ref="char:EOLhyphen"/>ah,</hi> was born of a Virgin, and that there was no other God but that Jesus which was Crucified by the Unbe<g ref="char:EOLhyphen"/>lieving Jews, and he was the true God, <hi>whom to know is life eternal;</hi> but the world knew it not, because they had not faith to believe his words, for had they known it, they would not have put to death the Lord of Life.</p>
+            <p n="6">6. The Everlasting Father and Creator of all things was in the World, as is testified by St. <hi>John, Chap.</hi> 1. <hi>ver.</hi> 10. <hi>He was in the World, and the World was made by him, and the World knew him not,</hi> ver. 14. the Apostles themselves <hi>beheld his Glory, but as the glory of the only begotten of the Father, full of Grace and Truth,</hi> because he was then in Mortality.</p>
+            <p n="7">7. After his Death and Resurrection <hi>Thomas</hi> put his fingers into his side, and called him <hi>his Lord and his God.</hi> And he was all the Apostles God; and therefore they call him the <hi>only wise God, their Saviour, Lord of Lords, and King of Kings.</hi>
+            </p>
+            <p n="8">
+               <pb n="46" facs="tcp:206381:33"/>8. Because there was none above him, therefore he did rise from the dead by his own power, and after his Resurrection he did ascend into Heaven, as is decla<g ref="char:EOLhyphen"/>red by the Apostles, and he is now in Heaven glorifi<g ref="char:EOLhyphen"/>ed with the same Glory he had before he became flesh, therefore his Glory is not given to another.</p>
+            <p n="9">9. The glorified man Christ Jesus, was all the former true Prophets God before he became flesh: &amp; he was all the Apostles God after he became flesh; so like<g ref="char:EOLhyphen"/>wise he is the <hi>Witnesses of Spirits</hi> God, now he is flesh and bone in Heaven glorified; thus it may be clearly discerned by the Seed of saith, as they clearly prove him to be Father, Son, and Holy Spirit in one sin<g ref="char:EOLhyphen"/>ple Person glorified; and as all honour, praise, and glory doth belong to Christ now he is a spiritual bo<g ref="char:EOLhyphen"/>dy of flesh and bone in Heaven, the <hi>Witnesses of the Spirit</hi> do give no honour, praise or glory to any other God but to Christ.</p>
+            <p>He was Creator of this World as he was the Fa<g ref="char:EOLhyphen"/>ther; the Redeemer of his Elect in the World as he was the Son; and sanctifier of all his people as he is the Holy Spirit; and here is the Trinity in Unity, and the Unity in the Trinity, yet but one Person.</p>
+            <p n="10">10. Thus it is, and will appear plainly to all the Seed of faith, that the <hi>Winesses of the Spirit</hi> are the third and last Prophets or Witnesses that ever God will send on this earth to declare his mind unto the World.</p>
+            <p n="11">11. It is written in the first Epistle of St. <hi>John, Chapt.</hi> 5. <hi>ver.</hi> 7. 8. <hi>There are three that bear record in Heaven, the Father, the Son, and the Holy Ghost,</hi> (from these words do most people conclude that they are three distinct Persons, and yet two of them have nei<g ref="char:EOLhyphen"/>ther
+<pb n="47" facs="tcp:206381:33"/>form or substance) and these three are one. So that it is plain to the Seed of faith (by that Text) they are all one in Essence, in Form and in Substance, which is that glorious bodily substance of Christ:</p>
+            <p n="12">12. <hi>For in him dwelleth the fulness of the Godhead bodily.</hi>
+            </p>
+            <p n="13">13. It is written also, <hi>And there are three that bear wit<g ref="char:EOLhyphen"/>ness on earth, the Spirit, the Water, and the Blood, and these three agree in one;</hi> that is, in their Doctrine or Decla<g ref="char:EOLhyphen"/>ration they do agree in one, whereby we see the differ<g ref="char:EOLhyphen"/>ence between three being one, and three agreeing in one.</p>
+            <p n="14">14. Though those three which bear witness on earth agree in their Declarations, yet they are several Dispensations, and appear on the earth in several ages.</p>
+            <p n="15">15. The first Witness on Earth was <hi>Moses</hi> and the rest of the true Prophets, which signified the Water in the Ceremonies of the Law; and they did all witness that God would either send a Saviour or become a Child in mortality himself <hi>to redeem his people from their sins,</hi> as <hi>Isaiah</hi> prophesied.</p>
+            <p n="16">16. The second Witness was Christ and his Apo<g ref="char:EOLhyphen"/>stles, and Christ did witness that he was come to suf<g ref="char:EOLhyphen"/>fer all those things that the Prophets had declared con<g ref="char:EOLhyphen"/>cerning him; so that Christ himself was that Wit<g ref="char:EOLhyphen"/>ness of the Blood, his blood was shed to wash away the sins of the Elect; and the Apostles did declare, <hi>That they were Eye-witnesses both of his Death, Resur<g ref="char:EOLhyphen"/>rection, and Asoention.</hi>
+            </p>
+            <p n="17">17. So that the second Witness which was Christ and his Apostles did agree with the first Witness, which was <hi>Moses</hi> and the other Prophets. For as the
+<pb n="48" facs="tcp:206381:34"/>first declared how a Saviour should be born; so the second declared that he was born, and what he was to suffer and did suffer, with his Death and Resurrection, as aforesaid.</p>
+            <p n="18">18. And the third and last Witness appeared on the Earth in the Year 1651, who are the <hi>Witnesses of the Spirit,</hi> and they do positively affirm and declare a<g ref="char:EOLhyphen"/>gainst Men and Angels that shall oppose or deny it, <hi>That there neither is, was, or ever shall be any other God or Saviour, but that God-man Christ Jesus, who laid down his life for the sins of his people without the Gates of</hi> Jerusalem, <hi>and the third day did rise again, and with the same Body that he died and rose again in, was he seen to ascend up into Glory in, when the Heavens opened to receive him, according as is testified in the Scrip<g ref="char:EOLhyphen"/>tures.</hi>
+            </p>
+            <p n="19">19. Therefore it is plain to all that are not quite blinde with ignorance (even those, of whom it is said, <hi>They have eyes and see not, ears and hear not, nor heart to understand</hi>) that Father, Son, and Holy Ghost make but one compleat Person, even the said Lord Je<g ref="char:EOLhyphen"/>sus Christ, that God-man blessed for ever.</p>
+            <p n="20">20. And therefore is all Glory that belongeth to Father, Son, and Holy Ghost given to Christ by all his chosen people, both Prophets, Apostles and Saints, as is declared by the <hi>Witnesses of the Spirit.</hi>
+            </p>
+            <p n="21">21. Whereby it obligeth all who have faith to be<g ref="char:EOLhyphen"/>lieve Christ is God, to believe that <hi>John Reeve</hi> and <hi>Lo<g ref="char:EOLhyphen"/>dowick Muggleton</hi> were sent forth by an express Com<g ref="char:EOLhyphen"/>mand from God, as is testified and declared by them to declare the mind of God, to a bloody and unbelieving World, because they do unanimously agree with the two former Witnesses, namely the Water and the
+<pb n="49" facs="tcp:206381:34"/>Blood, who did declare Christ to be the only wise God and Creator of all thing.</p>
+            <p n="22">22. The first is become last, and the last first; the Commission of the Spirit is last declared unto the world, yet the Spirit was before all things, and the two former Witnesses, both the Prophets and Apo<g ref="char:EOLhyphen"/>stles received their Commission from that Spirit which was a glorious Body in form like a Man from all Eter<g ref="char:EOLhyphen"/>nity.</p>
+         </div>
+         <div n="11" type="chapter">
+            <head>CHAP. XI. <hi>Where the Truth and true Knowledge, Peace, and Sa<g ref="char:EOLhyphen"/>tisfaction is to be had: And how it keepeth us from going a whoring after strange Gods.</hi>
+            </head>
+            <p n="1">1. TRuth, and true Knowledge are the things which only can and do give satisfaction to the Mind of man. Truth doth always satisfie those that receive it in the love thereof.</p>
+            <p n="2">2. There is no Truth, nor true faith or knowledge in the World but what is in the Commission of the Spirit, therefore no true peace or satisfaction to be had for those who despise it: We who are Believers there<g ref="char:EOLhyphen"/>of, do know and understand all the things before said.</p>
+            <p n="3">3. Let it not seem strange to the World when they shall hear any of us (who are true Believers of the Lords last Messengers) say, that we know more of the mind of God concerning the glorious things of Eternity, than all the people of the World besides.
+<pb n="50" facs="tcp:206381:35"/>There are none that know the true God, the right De<g ref="char:EOLhyphen"/>vil, the Nature and form of Angels, that the Soul and Body of man dieth together, and that they shall be raised again, and what Heaven and Hell is, and where they are, but only they who are Believers of the Com<g ref="char:EOLhyphen"/>mission or <hi>Winesses of the Spirit.</hi>
+            </p>
+            <p n="4">4. Therefore let no believer be ashamed of his saith, but declare it with boldness if it be required of him in love, and at all times when there is a convenient sea<g ref="char:EOLhyphen"/>son among civil and moderate men, but not among those whom we know to be Blasphemers.</p>
+            <p n="5">5. Christ forbiddeth to give that which is holy unto Dogs, and they who despise truth, are those Dogs Christ speaks of, and that which is not to be given them is the bread of life, which is holy; therefore we are not to declare the Eternal truth unto them, be<g ref="char:EOLhyphen"/>cause we are Children, lest they should bite us.</p>
+            <p n="6">6. Neither are we to cast these precious Pearls of Truth before Swine, lest they trample them under foot, and turn again and rend us: These Swine are such persecuting Devils, as will not only despise the truth (as dung) when they hear of it, but they will also seek to destroy him that declareth it for the truths sake.</p>
+            <p n="7">7. But truth doth fully satisfie all those that do receive it with joy, and continue stedfast in it, and it doth be<g ref="char:EOLhyphen"/>come both bread and water of life in them; Truth is the bread of life, because all those that do feed thereon will hunger no more after the forgiveness of their sins, &amp; their faith will be made so strong, by feeding all their days here on truth, which is Christ, that they will be able hereafter to live with him in Glory to Eter<g ref="char:EOLhyphen"/>nity.</p>
+            <p n="8">
+               <pb n="51" facs="tcp:206381:35"/>8. And this glorious truth is also the water of life in believers of this Commission, because it hath pur<g ref="char:EOLhyphen"/>ged and cleansed their hearts from all manner of Idola<g ref="char:EOLhyphen"/>trous Worship, or Worshipping of Idols, or unknown Gods, and it keepeth them from going a whoring af<g ref="char:EOLhyphen"/>ter strange Gods, because they are well acquainted with that truth which declareth unto them the true God Christ Jesus, who only they worship in Spirit and Truth.</p>
+            <p n="9">9. And we who are Believers of this last and spiri<g ref="char:EOLhyphen"/>tual Commission are to declare this truth plentifully to all those we find weary and heavy laden with igno<g ref="char:EOLhyphen"/>rance, who yet are hungring and thirsting after true knowledge, whereby they might have the assurance of their Salvation perfected in this life. To such we are to declare our faith with soundness of speech that can<g ref="char:EOLhyphen"/>not be denied, that those who are against it may be ashamed.</p>
+         </div>
+         <div n="12" type="chapter">
+            <head>CHAP. XII. <hi>How all sober men are to labour to know what they be<g ref="char:EOLhyphen"/>lieve, that they may lay hold on the good Word of Prophesie; and not be fed up with Fancies to be<g ref="char:EOLhyphen"/>lieve in that which no man can discribe what it is, or where it is.</hi>
+            </head>
+            <p n="1">1. FUrthermore, let all sober people labour and strive to know what they do believe, that they may be able to give a substantial Answer to all wise men that shall enquire of them what their faith is; for
+<pb n="52" facs="tcp:206381:36"/>it is not sufficient to say as the ignorant do, I believe in God, or I believe that Christ died for all sinners, and I hope to have the same benefit by his death as others have.</p>
+            <p n="2">2. Such like words a Child may be taught before he knoweth either good or evil, and most Religious peoples Children are educated up in such a Lan<g ref="char:EOLhyphen"/>guage; yet their Parents know not what nor where that God is they teach their Children to say they be<g ref="char:EOLhyphen"/>lieve in.</p>
+            <p n="3">3. For all those that are not come to the knowledge of that truth which will teach them to know what the true God is, though they are accounted wise and pru<g ref="char:EOLhyphen"/>dent by the world, yet they know not what the object of their faith is, because that Infinite Spirit, as they call it, which they say they believe in, hath neither body, form, or substance, and therefore neither to be seen, felt, nor understood.</p>
+            <p n="4">4. These things are accounted Wisdom to the world, but to us that know the true God it is foolishness. And there are none that can come to know what the true God is, and what that true worship is that doth belong to him; but those that have faith to believe and lay hold of the good word of Prophesie; and this cannot be learned by Children, until they grow up to matu<g ref="char:EOLhyphen"/>rity of years, for they must have good understanding before they are capable to know what the good word of Prophesie meaneth, which is the glad Tidings of Salvation.</p>
+            <p n="5">5. There can be no true comfort in uncertain things. What benefit or satisfaction can any man have by hea<g ref="char:EOLhyphen"/>ring that he hath an estate of great value in another Country, but it is neither to be seen nor folt, neither
+<pb n="53" facs="tcp:206381:36"/>can any man describe what substance it doth contain, nor where it is.</p>
+            <p n="6">6. Yet hundreds will be justifying that there is such an Estate that doth belong to him; but I do say again, what benefit can a man expect from such an Estate if it be valued at 10000 <hi>lib.</hi> a year, being it is a shadow and not a substance.</p>
+            <p n="7">7. Who would not account him a mad man or a fool that would be fed up with such fancies of men, to believe that at one time or other he should enjoy great happiness and comfort by that Estate which folks talk so much of, though the wisest of them that talk so much in the praise of it, are not able to declare unto him the substance of it, nor in what Country it is sci<g ref="char:EOLhyphen"/>tuated in.</p>
+            <p n="8">8. Thus it is with such men that do believe the Re<g ref="char:EOLhyphen"/>port of those men who call themselves Ministers of the Gospel of Christ, when they declare unto the peo<g ref="char:EOLhyphen"/>ple, and speak much of the Glory of God, and of that Glory which they shall enjoy with him that walk up<g ref="char:EOLhyphen"/>rightly before him; and yet they tell the people, that their God hath neither body, form, nor substance; now if he be a spiritual substance, then he must have a body and form sutable to it.</p>
+            <p n="9">9. Neither can or do they tell their ignorant Disci<g ref="char:EOLhyphen"/>ples or Believers where that God is, with whom they must enjoy their Glory; for they say he is every where, and if he be every where, then there is no more glory to be received with God, then we already enjoy.</p>
+            <p n="10">10. Then it were in vain for Saints to believe and expect glory with their God in another world, if God be in all things and places, as most people are taught to believe.</p>
+            <p n="11">
+               <pb n="54" facs="tcp:206381:37"/>11. Let all wise, sober wise men consider with themselves what little satisfaction they have found in believing in that unknown God. And what satisfa<g ref="char:EOLhyphen"/>ction can any man have in believing that his body shall be raised again like unto the glorious body of God, and yet believe that God hath never a body to enjoy his own glory in again; What satisfaction or felicity, joy or comfort can any man expect to enjoy in, or with that God in another world, who hath nei<g ref="char:EOLhyphen"/>ther body nor form for them to behold.</p>
+            <p n="12">12. Again, why are the Eyes of the people so dark<g ref="char:EOLhyphen"/>ned? or why are they so ignorant to think or believe that God hath neither body nor form? Why? Be<g ref="char:EOLhyphen"/>cause it is now as it was in the former true Prophets time, in the days of <hi>Isaiah.</hi> Isaiah 9.16. <hi>The Teachers cause the people to erre, and they that are taught by them are destroyed.</hi>
+            </p>
+            <p n="13">13. And do not all that are now leaders of the peo<g ref="char:EOLhyphen"/>ple, or Teachers of Congregations teach the people to believe that God is every where at one and the same time without either body or form, as I heard Dr. <hi>Ja<g ref="char:EOLhyphen"/>comb,</hi> when he did teach at that place called St. <hi>Mar<g ref="char:EOLhyphen"/>tins Ludgate</hi> teach his Congregation that they should not think nor believe that God had either head, face, arms or shoulders as a man hath.</p>
+            <p n="14">14. And the same time his Text was, <hi>God made man in his own Image;</hi> but said he, God Created man in righteousness and holiness like unto himself, so that Mr. <hi>Jacomb</hi> would have holiness and righteousness to be quite out of form, neither hath his God ever a body for his holiness and righteousness to dwell in, but what he is beholding to his Creatures for, because he want<g ref="char:EOLhyphen"/>eth a spiritual body of his own.</p>
+            <p n="15">
+               <pb n="55" facs="tcp:206381:37"/>15. Oh! It is a most gross Error, to teach the peo<g ref="char:EOLhyphen"/>ple to believe that the glorious Creator of Heaven and Earth hath neither head nor face. Those people so taught and so believing, by that means despise the true God, who hath a spiritual Body, with all parts like a man in Heaven glorified.</p>
+            <p n="16">16. I say, these people will be destroyed to Eterni<g ref="char:EOLhyphen"/>ty; for he that teacheth the people to believe that God hath neither head nor face, had as good teach them to believe that God hath neither eyes to see, nor ears to hear, nor a mouth to speak withal, and so teach them to believe that God is blind, deaf and dumb, and so bid them fall to the Idolatrous worshipping of Stocks and Stones again, as people did in former times before the Gospel was preached.</p>
+            <p n="17">17. But where the Gospel is preached, and the truth spread abroad, and where the true God is made known, the worshipping and believing in such a God as hath neither body nor form is worse and more Ido<g ref="char:EOLhyphen"/>latrous than their worshipping of graven Images was in former times, before the true God was declared and made known unto us. But now he is declared unto all who have eyes to see, and ears to hear, and none but those that have true faith to believe in him shall be saved.</p>
+         </div>
+         <div n="13" type="chapter">
+            <head>CHAP. XIII. <hi>In Christ is comprehended the whole Trinity: no man on this earth can prove three Persons in the Tri<g ref="char:EOLhyphen"/>nity.</hi>
+            </head>
+            <pb n="56" facs="tcp:206381:38"/>
+            <p n="1">1. THat God who will save all them that believe in him, is the Lord Jesus Christ (before men<g ref="char:EOLhyphen"/>tioned) who is both Father, Son, and Holy Ghost in one single person glorified: And that personal God is a spiritual body in form like a man, and in that blessed body of Christ is comprehended the whole Tri<g ref="char:EOLhyphen"/>nity.</p>
+            <p n="2">2. The life of that blessed body is the Eternal Fa<g ref="char:EOLhyphen"/>ther and Mighty God, who clothed himself with flesh and bone in the womb of the Virgin, and that flesh and bone is the Son of God. And those powerful Words which were Spirit and Life, that proceeded from the Father within, through the mouth of the the Son, was the Holy Ghost: So it is plain there is but one Person though three Titles in the Trinity; and I am sure there is not a man in the world who is able to prove that the Father, the Son, and the Holy Ghost are three distinct Persons.</p>
+            <p n="3">3. All that teach the people to believe in three Per<g ref="char:EOLhyphen"/>sons, may say as Mr. <hi>Walton</hi> who was Minister of <hi>Nap<g ref="char:EOLhyphen"/>tot</hi> in <hi>Leicestershire</hi> said unto me in <hi>Shasby, If I could not believe that there were three Persons and but one God, he could not prove it;</hi> and in that he told me the truth.</p>
+            <p n="4">4. All people that understand what a Person is, knoweth that that word Person doth signifie a body, and all bodies, both spiritual bodies and temporal bo<g ref="char:EOLhyphen"/>dies are distinct one from another except they be mon<g ref="char:EOLhyphen"/>sters; Therefore if Father, Son, and Holy Ghost be three distinct P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sons, and every one of them have the Title of a God, then there are three Gods.</p>
+            <p n="5">
+               <pb n="57" facs="tcp:206381:38"/>5. Again, how can any man go about to prove three Persons in the Trinity, when all those that declare that Doctrine deny the Father to be in a spiri<g ref="char:EOLhyphen"/>tual body; for say they, <hi>God</hi> is an Incomprehensible Spirit in all things, and in all places at one and the same time.</p>
+            <p n="6">6. Secondly, they deny the <hi>Holy Ghost</hi> to be a bo<g ref="char:EOLhyphen"/>dy; but say they, the <hi>Holy Ghost</hi> is a sanctifying Spi<g ref="char:EOLhyphen"/>rit which proceedeth both from Father and Son; so there they lose the third Person.</p>
+            <p n="7">7. But when they come to the Son, then the say, Christ was born of the Virgin with flesh and bone; so that all Religious persons, but the Quakers, will own Christ to have a body now in Heaven glorified.</p>
+            <p n="8">8. And the wisest man living cannot find any other Person of <hi>God</hi> but Christ, <hi>For in him dwels all the fulness of the Godhead bodily; and he is the first and the last, and it is he that was dead and is alive, and behold he li<g ref="char:EOLhyphen"/>veth for evermore.</hi>
+            </p>
+            <p n="9">9. Again, it is plain by Scripture that <hi>God</hi> is but in one place at once, for, <hi>he came into the Garden in the cool of the day to look for</hi> Adam; so that <hi>God</hi> was not in that <hi>Garden</hi> before the cool of the day; for its said, <hi>then he came into the Garden, and said, Where art thou, Adam?</hi> and <hi>Adam</hi> could not have had a thought to hide himself from <hi>God,</hi> but that he had seen <hi>God</hi> with his eyes, and knew he was a spiritual body in form like himself, and that he could be but in one place at once; for <hi>Adam</hi> did see <hi>God</hi> face to face when he was in his innocencie.</p>
+            <p n="10">10. Furthermore, had <hi>God</hi> been a Spirit without a Body, as people ignorantly imagine him to be, and in every place at one and the same time, then he would
+<pb n="58" facs="tcp:206381:39"/>have been with <hi>Adam</hi> at all times, and in all places, so that there would have been no occasion for <hi>God</hi> to have said, <hi>Where art thou, Adam?</hi> nor for <hi>Adam</hi> to have said, <hi>I heard thy voice in the Garden, and I hid my self.</hi>
+            </p>
+            <p n="11">11. Which words do imply, that God was not al<g ref="char:EOLhyphen"/>ways in the Garden with <hi>Adam,</hi> yet sometimes he was there, but when he was there, he was not all over the Garden at once, much less then is he in all places and in all things in the world at all times.</p>
+            <p n="12">12. Secondly, it is written, <hi>God</hi> put <hi>Moses</hi> into a Clift of the Rock, whilest he passed by; therefore if God had been in all places, he would have been in the Clift of the Rock; Also then he could not have passed by that place so long as he had been in it, nei<g ref="char:EOLhyphen"/>ther can he be said to pass by that place, which he is never out on, neither was he in that place at that time he passed by it.</p>
+            <p n="13">13. Again, when <hi>God</hi> appeared to <hi>Moses</hi> in the Bush, then was <hi>God</hi> in no other place in this world at that time, for had he been in all things, all things would have burned as the Bush did, and where ever God is, he purifieth that place, and maketh it holy; therefore the ground on which <hi>Moses</hi> stood was made holy ground, and <hi>Moses</hi> was not suffered to keep his shooes on his feet.</p>
+            <p n="14">14. Alwayes where <hi>God</hi> is that place is holy, surely no man dare say to the contrary, and then without all Controversie, if <hi>God</hi> be every where, and in all things in this world, then all things and all places must be holy, or else God must dwell with uncleanness.</p>
+            <p n="15">15. Furthermore, as sure as <hi>God</hi> is all life and light, so where that glorious <hi>God</hi> is resident, there is neither
+<pb n="59" facs="tcp:206381:39"/>death nor darkness: And seeing both death and dark<g ref="char:EOLhyphen"/>ness reigneth in this world, why should people be so ignorant to believe that <hi>God</hi> is always in this world, when by that it is evident that he is not here at all.</p>
+            <p n="16">16. <hi>Object.</hi> But then some may say unto me, <hi>You declare that Christ was the Eternal Father and Mighty God, as well as the Son, Why then was there any darkness or death in this World when Christ was upon the Earth?</hi>
+            </p>
+            <p n="18">18. <hi>Answ.</hi> To that I answer. Though the Crea<g ref="char:EOLhyphen"/>tor and Eternal Father was in this world, yet his glo<g ref="char:EOLhyphen"/>ry could not be seen, because he had clothed himself with pure mortality, wherewith his glory was Cloud<g ref="char:EOLhyphen"/>ed, which was the cause darkness took its course. And because the Immortal God was at that time become pure mortality himself, and Eternity become time, therefore did he suffer death, to seise on all as formerly.</p>
+            <p n="18">18. There would have been no need of any Created Light, if <hi>God</hi> had decreed to have lived in this world in his glory. But as the glorious Wisdom of <hi>God</hi> mo<g ref="char:EOLhyphen"/>ved him to Create this world, so likewise did his Wis<g ref="char:EOLhyphen"/>dom move him to create such glorious Bodies, as Sun, Moon, and Stars, to give light to such Creatures, as afterwards should be created by him.</p>
+            <p n="19">19. God did decree within himself to live in that Spi<g ref="char:EOLhyphen"/>ritual Kingdom of uncreated glory, above or beyond the Stars, which place of Spiritual glory is only fit for such a Spiritual glorious Majesty to live in. Again, when <hi>Moses</hi> was in the Mount then <hi>God</hi> was there, and no where else, therefore the Mount smoaked like a fur<g ref="char:EOLhyphen"/>nace and quaked, because the presence of the Almighty <hi>God</hi> was descended upon it: And all, both man and beast that did go within the bounds that <hi>Moses</hi> had set
+<pb n="60" facs="tcp:206381:40"/>to touch the Mount, or to gaze upon it whilest the pre<g ref="char:EOLhyphen"/>sence of <hi>God</hi> was there, was to be put to death.</p>
+            <p n="20">20. And <hi>Moses</hi> was to sanctifie the people, and they were to wash their clothes, and not to come at their wives, but to be ready in all holiness when God was to come down upon the Mount: And the Priests who were to come near the Lord, were to sanctifie them<g ref="char:EOLhyphen"/>selves, yet not to touch the Mount whereon God was descended.</p>
+            <p n="21">21. But now adays, they who have gathered Con<g ref="char:EOLhyphen"/>gregations, and are Teachers of them, they teach the people to believe that God dwelleth alwayes with them, though they are filthy and unclean, and so they make God the Author of all wickedness, because they believe God is always present with them.</p>
+            <p n="22">22. I know what is written in the 139 <hi>Psalm, Whi<g ref="char:EOLhyphen"/>ther shall I go from thy Spirit, or whither shall I fly from thy presence; if I ascend up into Heaven, thou art there; if I make my bed in Hell, behold thou art there, if I take the wings of the Morning, and dwell in the uttermost parts of the Sea, there shall thy hands lead me.</hi> This is one of the chiefest places people have to uphold them in that belief, that <hi>God</hi> is every where at once; but that Text hath no such signification in it.</p>
+            <p n="23">23. Those words of <hi>David</hi> doth set forth to all the Seed of Faith, that God by his power can find us out wheresoever we are, and he hath set his Watchman to watch us where ever we go; and <hi>God</hi>'s Watchman is the Law written in our hearts and natures which will accuse us where ever we go to hide our selves from <hi>God.</hi>
+            </p>
+            <p n="24">24. For if we go down into the deep waters, or be buried in the bottom of the Earth, the power of <hi>God</hi>
+               <pb n="61" facs="tcp:206381:40"/>is there, <hi>God</hi> can command the Sea, Hell, or the Grave to give up those they keep prisoners there: And in that respect <hi>God</hi> is in all places by his power, because he hath power to command all places to deliver up man unto him. There is no resisting of the power of <hi>God,</hi> for by him all things were Created, and when his glory will move him to give forth the word of Command to destroy all things.</p>
+            <p n="25">25. Then this fair Fabrick of the World will be<g ref="char:EOLhyphen"/>come desolate of all its beauty, and become a Chaos of Confusion, and then if God were in all things, would he destroy part of himself.</p>
+            <p n="26">26. So that it is plain to the Seed of Faith, that he is no spiritual wise man who believeth or teacheth o<g ref="char:EOLhyphen"/>thers to believe that God is in all things and in all pla<g ref="char:EOLhyphen"/>ces, but hath not a spiritual body of his own to enjoy his glory in.</p>
+            <p n="27">27. Again, when <hi>God</hi> wrestled with <hi>Jacob,</hi> he was in the stature and form of a man. Here I know some will say that it was an Angel, and not God that wrest<g ref="char:EOLhyphen"/>led with <hi>Jacob;</hi> if it be so granted that it was an An<g ref="char:EOLhyphen"/>gel, then it must be granted that Angels have bodies like men.</p>
+            <p n="28">28. The body of the Almighty God is a spiritual body, in form like the holy Angels: and as <hi>God</hi> is cal<g ref="char:EOLhyphen"/>led a Spirit, so are the Angels called Ministring Spi<g ref="char:EOLhyphen"/>rits; but neither <hi>God</hi> nor the holy Angels are bodiless Spirits, for both God and the holy Angels have spiri<g ref="char:EOLhyphen"/>tual bodies to ascend or descend in at their plea<g ref="char:EOLhyphen"/>sure.</p>
+            <p n="29">29. And as sure as those two Angels that came to <hi>Lot</hi> had bodies, so sure have all the Angels in Heaven bodies, and they do not assume to themselves bodies at
+<pb n="62" facs="tcp:206381:41"/>certain times, as some people vainly imagine, for they were Created with spiritual bodies of their own.</p>
+            <p n="30">30. <hi>And God created man in his own Image and form,</hi> and indeed it is to be acknowledged <hi>he was created in holiness and righteousness,</hi> yet it is undeniably known that holiness and righteousness, signifie nothing with<g ref="char:EOLhyphen"/>out bodies to act them in.</p>
+            <p n="31">31. Ever since the Creation of the World, God hath been declared to be in the form of man by all his Prophets and Apostles. In all appearances hath <hi>God</hi> appeared unto man in the form of man. And <hi>God</hi> when he was manifested in flesh and dwelt among men, said, <hi>he was like unto man in all things, sin ex<g ref="char:EOLhyphen"/>cepted.</hi>
+            </p>
+            <p n="32">32. It is written <hi>Gen.</hi> 32.24. <hi>that Jacob was left alone, and there wrestled a man with him until the break of the day,</hi> ver. 30. <hi>And he said I have seen God face to face, and my life is preserved.</hi> Now how could <hi>Jacob</hi> have seen the face of God, if God had not a face to be seen, (as Mr. <hi>Jacombe</hi> taught his Congregation he had not.)</p>
+            <p n="33">33. Also it is written, <hi>God spake to Moses mouth to mouth, as a man speaketh to his friend:</hi> Could God have a mouth without head or face? Surely no, only blind and unclean Reason doth imagine that God is a formless Spirit.</p>
+            <p n="34">34. True it is, that Reasons God is without form, for that God which hath neither head nor face, nor any other parts, is a formless thing in<g ref="char:EOLhyphen"/>deed. But our God is a God in form, he was a spiri<g ref="char:EOLhyphen"/>tual person in the form of a man from all Eternity.</p>
+            <p n="35">35. After he became a Child of flesh, blood, and bone in the womb of the Virgin-wise <hi>Mary,</hi> and was
+<pb n="63" facs="tcp:206381:41"/>born and brought forth into this world, he grew up in stature to be a pure man in mortality, then could both Saints and Devils behold his blessed face and live, be<g ref="char:EOLhyphen"/>cause he was then in the state of Mortality, yet with<g ref="char:EOLhyphen"/>out sin.</p>
+            <p n="36">36. But when <hi>God</hi> was upon this earth that all might see him and his wonderful works, yet we read in Scripture how few believed in him, none but the Seed of Faith, the Seed of <hi>God</hi> in the Generation of <hi>Adam,</hi> there were none else that could believe that Je<g ref="char:EOLhyphen"/>sus was the Son of God.</p>
+            <p n="37">37. The Seed of Reason, that is, the Seed of the Serpent in the Generation of cursed <hi>Cain</hi> did despise him, and call him Blasphemer, and at last they put him to death.</p>
+            <p n="38">38. Therefore let not us wonder there are so few that can believe that that Jesus is now both Father, Son, and Holy Ghost in one single Person in Heaven glorified.</p>
+            <p n="39">39. Again, when the three Children were preserved in the fiery furnace, <hi>one like the Son of Man was seen to walk there.</hi> So <hi>John</hi> the Divine in a Vision <hi>saw one like the Son of Man to lay his hand on him.</hi> So it is clear to all the Seed of Faith, that God and his An<g ref="char:EOLhyphen"/>gels always appeared like men, whether it was in Vi<g ref="char:EOLhyphen"/>sion Dream, Revelation, or to the fight of the natural Eye.</p>
+            <p n="40">40. Therefore why should men be so ignorant to think or believe that <hi>God</hi> hath no parts or passion at all? But the Reason why all people cannot believe the truth is, because there is two Seeds and Generation from the beginning of the world, that is, <hi>the Seed of the woman, and the Seed of the Serpent.</hi>
+            </p>
+            <p n="41">
+               <pb n="64" facs="tcp:206381:42"/>41. These two Seeds have brought forth two Ge<g ref="char:EOLhyphen"/>nerations: the Seed of the Woman is the Generati<g ref="char:EOLhyphen"/>on of <hi>Adam,</hi> of which was the blessed <hi>Seth, who called upon the Name of the Lord;</hi> and <hi>Seth</hi> was given to <hi>A<g ref="char:EOLhyphen"/>dam</hi> in the room of righteous <hi>Abel</hi> whom <hi>Cain</hi> slew, and the Offspring or Generation of <hi>Seth</hi> are they that believe, understand, know, and see by the eye of faith in this World, that the glorious body of <hi>God</hi> is in the form of man in Heaven, where they will behold him face to face in glory, after they have passed from death to eternal life.</p>
+            <p n="42">42. And the Seed of the Serpent are the Generati<g ref="char:EOLhyphen"/>on of cursed <hi>Cain;</hi> for the Serpent was that unclean Angel who was cast out of Heaven, and it was he that was the <hi>Tree of Knowledge of Good and Evil;</hi> and it was of that Tree which <hi>Eve</hi> did eat, and her eating was believing his Godlike words, wherewith he perswaded her that they should be <hi>as Gods knowing Good and Evil,</hi> if she would but adhere to him, and yield to his de<g ref="char:EOLhyphen"/>sire, which she did.</p>
+            <p n="43">43. Thus came sin into the World, and death by sin (which the Apostle hints at,) <hi>Eve</hi> yielding unto the Temptations of the said fallen Angel, for none knew <hi>Good or Evil</hi> but he, she not knowing what the issue of it would be, immediately he pierced into or through her secret parts into her womb, dissolved him<g ref="char:EOLhyphen"/>self into Seed and nature, which Seed quickned again into mortal life in the womb of <hi>Eve.</hi>
+            </p>
+            <p n="44">44. So the Devil clothed himself in the Womb of <hi>Eve,</hi> and she brought forth her first-born Son of the devil, though she said, <hi>She had gotten him from the Lord;</hi> and he was the very Devil himself, and his name was called <hi>Cain,</hi> according to his nature, <hi>Cursed:</hi> And this
+<pb n="65" facs="tcp:206381:42"/>
+               <hi>Cain</hi> begat Sons and Daughters, of whose Generation are the greatest part of the people in the World.</p>
+            <p n="45">45. And as their Father the Devil <hi>(who was a De<g ref="char:EOLhyphen"/>ceiver, Lyar, and a Murtherer from the beginning)</hi> did lose his glory by rebelling against his Creator when he was in Heaven, so likewise he lost the knowledge of himself by dissolving himself into Seed in the Womb of <hi>Eve,</hi> as aforesaid.</p>
+            <p n="46">46. After he was born into this World he could ne<g ref="char:EOLhyphen"/>ver attain to the knowledg of <hi>God</hi> or himself any more; nor is there any of his Seed that shall ever come to the knowledge of the true <hi>God,</hi> or their own natures, only they may call, <hi>Lord, Lord,</hi> and say as the Generations of the same Seed before them have done, <hi>Have not we Abraham to our Father, &amp;c.</hi>
+            </p>
+            <p n="47">47. This Seed and Generation of men will never behold the face of that glorious <hi>God,</hi> who they have denied to have a face of his own, neither (as I said before) can they attain to the knowledge to know what themselves are, so long as they live in this World.</p>
+            <p n="48">48. But as for the Children who are of the Serpents Seed, and yet die in their Infancie, they will be raised up to the same state of glory as that <hi>Serpent-Tree of Knowledge of Good and Evil</hi> was in before his Fall, for <hi>God</hi> is just, and he will not punish any Child with e<g ref="char:EOLhyphen"/>verlasting punishment for the sins of the Parents.</p>
+            <p n="49">49. All those that are appointed to everlasting De<g ref="char:EOLhyphen"/>struction are likewise appointed to live to the years of maturity in this life, that they may fight against <hi>God,</hi> by opposing his Truth declared by his Messengers, that they may be damned for their own wickedness and unbelief.</p>
+            <p n="50">
+               <pb n="66" facs="tcp:206381:43"/>50. Though it is written, <hi>Jacob have I loved, and Esau have I hated before that they had done either good or evil;</hi> yet we are to mind that they were appointed to live to the years of maturity to fulfil the Decree of <hi>God;</hi> and they could not die in their Infancie, because <hi>God</hi> had likewise said, <hi>in Rebecca's womb was two Nations;</hi> therefore they were to live to be men, that there might come two great Nations out of their loyns, to fulfil Gods decree in those words.</p>
+         </div>
+         <div n="14" type="chapter">
+            <head>CHAP. XIV. <hi>God is not in this world at all, but at such times as his Glory moveth him, to come down for a time: nei<g ref="char:EOLhyphen"/>ther doth God dwell in this world any other way, but in the hearts of his Saints by Faith. There is no Salvation for those that refuse Christ to be their God.</hi>
+            </head>
+            <p n="1">1. IT is written, <hi>Gen. Chap.</hi> 35. <hi>ver.</hi> 1. <hi>Jacob</hi> was commanded <hi>to make an Altar unto that God who appeared to him when he parted from his Brother Esau,</hi> ver. 9. <hi>God appeared to Jacob again,</hi> ver. 11. <hi>God ap<g ref="char:EOLhyphen"/>peared to Jacob again,</hi> ver. 11. God told <hi>Jacob</hi> plainly, <hi>that he was God Almighty,</hi> and bid him <hi>be fruitful and multiply.</hi> Ver. 13. <hi>God went up from the place where he talked with him.</hi> So that it plainly appears by Scrip<g ref="char:EOLhyphen"/>ture, that it was God that appeared to <hi>Jacob,</hi> and God was then in a body, and distinct from all things.</p>
+            <p n="2">2. After this God went up into glory again, his Wisdom having moved him to leave that place for a
+<pb n="67" facs="tcp:206381:43"/>time, until he was pleased to come down again to talk with <hi>Jacob,</hi> as he did to several other men, whom he loved.</p>
+            <p n="3">3. That <hi>Melchisedech</hi> King of <hi>Salem,</hi> who met <hi>A<g ref="char:EOLhyphen"/>bram in the way, and brought bread and wine unto him,</hi> was God himself, and then he was in the person of a man.</p>
+            <p n="4">4. Again, <hi>God talked with Abram in the ninetieth year of his age, and said to him</hi> (as he did to <hi>Jacob) I am God Almighty; then Abram fell on his face before God;</hi> and then <hi>God changed Abrams name to Abra<g ref="char:EOLhyphen"/>ham,</hi> as you may read <hi>Gen.</hi> 17.</p>
+            <p n="5">5. Also it is said, there came three Angels unto <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and <hi>Abraham</hi> caused them to come to him un<g ref="char:EOLhyphen"/>der a Tree, and washed their feet, and gave them meat; one of them was <hi>God,</hi> and that was he whom <hi>Abraham</hi> treated so much with for <hi>Sodom;</hi> and the two Angels went to <hi>Sodom,</hi> and they were in the forms of men, and taken for men.</p>
+            <p n="6">6. In several other places in Holy Writ, <hi>God is said to come down from Heaven;</hi> and in some places, <hi>God is said to look down from Heaven;</hi> so that all who have any faith in the Scriptures, or are not blind with ig<g ref="char:EOLhyphen"/>norance, may know that God is not in the World at all, but at such time as his glorious Wisdom moveth him to leave his Throne for a moment, or small space of time to come down and talk with his Creatures.</p>
+            <p n="7">7. As he did to <hi>Abraham, Jacob, Moses,</hi> and such like men, and then to ascend to his Throne of glory a<g ref="char:EOLhyphen"/>gain; therefore how can any wise sober man imagine or think that God is alwayes in this World, and in all things, vvhen by the Holy Scriptures it is proved to the contrary.</p>
+            <p n="8">
+               <pb n="58" facs="tcp:206381:44"/>8. <hi>Object.</hi> But I know many people will Object, and say, <hi>How can this be true, that so many men have seen the face of God, when it is written, that no man can see the face of God and live.</hi>
+            </p>
+            <p n="9">9. Answ. When the glorious Wisdom of God mo<g ref="char:EOLhyphen"/>ved him to leave his Heavenly Throne and come down into this World and speak to his Creatures on this Earth, then God did leave his bright burning glo<g ref="char:EOLhyphen"/>ry behind him, or else cover it with a vail, whereby man might be able to behold his face and live.</p>
+            <p n="10">10. <hi>When God said, No man could see his face and live,</hi> then was he in his Kingdom of glory; and true it is, that no man in Mortality can behold the bright burning glorious face of God in his glory &amp; live; for if the eye of man be not able to look upon the Created Sun when it shineth in its strength, much less is he able to look upon the Creator when he sitteth on the Throne of Heaven, vvhere his face shineth ten times brighter than the Created Sun in its strength; and this I think, that there is no man vvho doth own there is a God, dareth to deny.</p>
+            <p n="11">11. Then how can they believe that God is at all times in this World, seeing that when the created Sun is gone down there is present darkness all over this part of the world, but where the Creator is, there is no need of the created Sun to give light.</p>
+            <p n="12">12. The light of that Sun is no more to the light of God himself, than the light of a Candle is to the Sun; therefore it is plain, God dwelleth in this World no otherwise than in the hearts of his Saints by Faith.</p>
+            <p n="13">13. Furthermore, I would not have any of the seed of Faith to be so ignorant, as to think or believe that
+<pb n="69" facs="tcp:206381:44"/>God is so large in person to sit upon his Throne in Heaven, and at the same time to touch this Earth with his foot, though it is written, <hi>Heaven is my Throne, and the Earth is my footstool.</hi>
+            </p>
+            <p n="14">14. For there is Spiritual Earth in the Kingdom of glory for our blessed God to set his Divine feet upon, yet this earth is counted with God to be as his foot<g ref="char:EOLhyphen"/>stool in this respect, because the Kingdom of Heaven above doth so much exceed this world in glory, that this earth or world with all its beauty, wherein there is so many Thrones for Kings and Emperours to sit on, yet all their Thrones and the glory belonging to them are but as a footstool, in comparison to that glorious Throne whereon our blessed God Christ Jesus sitteth in another world above or beyond the Stars.</p>
+            <p n="15">15. But I know, when these sayings of mine are spread abroad in the World, most people will be filled with envy against them, and contradict them with Blasphemy, as the Jews did the preaching of St. <hi>Paul</hi> and <hi>Barnabas,</hi> Act. 13.45.</p>
+            <p n="16">16. For now adays the generality of people can no more endure to hear Christ declared to be the <hi>Almigh<g ref="char:EOLhyphen"/>ty God, and Everlasting Father,</hi> according to the Pro<g ref="char:EOLhyphen"/>phesie of <hi>Isaiah</hi> 9.6. than the Jews could endure to hear Jesus to be declared to be the Son of God and Sa<g ref="char:EOLhyphen"/>viour of the World.</p>
+            <p n="17">17. Therefore as sure as there was no Salvation for those that did despise Jesus, and refused him to be their God and Saviour when he was upon the Earth accor<g ref="char:EOLhyphen"/>ding as he was declared to be by his Apostle, so sure it is now, there is no Salvation for them that do despise the blessed Body of Christ Jesus in Heaven glorified, refusing him to be their God, who hath a Spiritual
+<pb n="70" facs="tcp:206381:45"/>body, to enjoy his glory in, or chuse to themselves a bodiless God without form or substance to rule over them contrary to the Declaration of the last true Pro<g ref="char:EOLhyphen"/>phets or Messengers of God.</p>
+            <p n="18">18. Therefore there is none who hath either heard their Declaration, or read their Writings that can plead ignorance, and say, they never heard plainly what the true God was, or is; but there are many thou<g ref="char:EOLhyphen"/>sands who may plead that they wanted saith to believe in that God which is but in one place at once, and I am sure all those that want faith to believe in that God in this World, will want glory in Heaven here<g ref="char:EOLhyphen"/>after.</p>
+         </div>
+         <div n="15" type="chapter">
+            <head>CHAP. XV. <hi>The Soul of Man is Generated with its Body, therefore it liveth and dieth with the Body, and is never par<g ref="char:EOLhyphen"/>ted from it.</hi>
+            </head>
+            <p n="1">1. IT is generally believed, that the cause of a mans dying is, because the Soul departeth from the body, but that is only Imagination, for the Soul of man can live no longer without his body, than the body can without the Soul.</p>
+            <p n="2">2. For the Soul of a man cometh out of the loyns of a man as well as the body, as it is written — <hi>out of Jacobs loyns came threescore and sixteen Souls;</hi> and the Soul doth secretly lie hid in the Seed, like a spark of invisible fire, and that is the life of the Seed.</p>
+            <p n="3">3. God hath placed Seed in man to cause it to spring
+<pb n="71" facs="tcp:206381:45"/>forth of his loyns therefore did he bid them, <hi>Adam</hi> and <hi>Eve, Increase <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> which was <hi>to replenish the earth;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath every see I brought forth its ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ording as God had decreed they should, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmediate help from him.</p>
+            <p n="4">4. For God did decree before he made a We man, that the Seed of man being sown in the womb of a wo<g ref="char:EOLhyphen"/>man should there d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and quicken again by the power of his Creative word, when he bid them increase and multiply.</p>
+            <p n="5">5. As God said, <hi>Let there be light, and let there be a Firmament, and it was so: and let the waters be ga<g ref="char:EOLhyphen"/>thered into one place, and they were so;</hi> and do so conti<g ref="char:EOLhyphen"/>nue by the power of that word which commanded them so to appear.</p>
+            <p n="6">6. So doth every Seed bring forth its own body, whether it be man or beast, according to the time of life which God appointed at the first without any more additional help from him.</p>
+            <p n="7">7. Let it not be thought by any, that God doth in<g ref="char:EOLhyphen"/>fuse a Soul into a Child after the man hath given his Seed to the woman (this would make him a partaker with the Adulterers) but the Soul which is the life of the Seed (as aforesaid) dieth in the womb, and quick<g ref="char:EOLhyphen"/>neth again in the Womb of the woman, as the wheat<g ref="char:EOLhyphen"/>corn or other grain dieth, and quickeneth again in the womb of the earth.</p>
+            <p n="8">8. At the first when God created <hi>Adam,</hi> he did breath into his Nostrils <hi>the breath of life;</hi> and that breath of life <hi>became a living Soul</hi> in <hi>Adam;</hi> and that living Soul brought forth seed; and that Seed accord<g ref="char:EOLhyphen"/>ing to the Prerogative power of God hath brought forth its own likeness ever since.</p>
+            <p n="9">
+               <pb n="72" facs="tcp:206381:46"/>9. And as the Soul is granted by most people to be the life of the body when it is born into this World, so of necessity it must be the life of the Seed, or else the seed of man could not bring forth a body for want of life, any more then the wheat-corn can bring forth a body if the flower which is the Soul or life of the Corn be taken out, and the husk only flung into the earth.</p>
+            <p n="10">10. Therefore it is plain that the Soul is the life of the Seed, and that it is conceived in the womb by Ge<g ref="char:EOLhyphen"/>neration with the body, and it is born into the world with the body, so it lives and dies with it, and must lie in the earth with the body, and both raised toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p n="11">11. Then shall they enter either into Everlasting joy or torment; for as the body and Soul had their be<g ref="char:EOLhyphen"/>ginning together in time, and lived together and sin<g ref="char:EOLhyphen"/>ned together, so shall they begin their Eternal joy or torment together, <hi>these have God joyned together, and will never put them asunder;</hi> it is impossible for the Soul and body to part, because God hath decreed it to the contrary.</p>
+            <p n="12">12. The Believers of the said Commissioners of the Spirit, their Declaration or Testimony, they be<g ref="char:EOLhyphen"/>ing the aforementioned Messengers or Witnesses of the Most High God the Lord Jesus Christ, concerning the Eternal Condition of all men, they do yeeld to the death of their Souls with their bodies, and do be<g ref="char:EOLhyphen"/>lieve with the full assurance of faith that they shall both be raised again together at the last day, and in the mean time their lives are hid with Christ in God.</p>
+         </div>
+         <div n="16" type="chapter">
+            <pb n="73" facs="tcp:206381:46"/>
+            <head>CHAP. XVI. <hi>There are several Degrees of Knowledge, but no degree able to give true Rest to the mind, until a man can believe the true Messengers of God.</hi>
+            </head>
+            <p n="1">1. IT is generally seen and known, that there are se<g ref="char:EOLhyphen"/>veral degrees of knowledge in temporal things, as in all Arts and Sciences, they that are ingenious do well mind those that are accounted good Workmen or cunning Artificers, whereby they grow up from one degree of Knowledge to another, until such time that they have attained to that degree of know<g ref="char:EOLhyphen"/>ledge which they aimed at, and which they had so long laboured to finish, and then they are at rest.</p>
+            <p n="2">2. But if they can never find out, or attain to that Mystery they did so long seek after, then are they al<g ref="char:EOLhyphen"/>ways dissatisfied, and die in ignorance of what they desired to know.</p>
+            <p n="3">3. And as there are several degrees of knowledge in Temporal things so are there several degrees of know<g ref="char:EOLhyphen"/>ledge in spiritual things, therefore do all men that are naturally given to seek after God, especially those of the Jewish nature, they take great notice of the preach<g ref="char:EOLhyphen"/>ing of men, which way they teach men to worship God.</p>
+            <p n="4">4. Then they enter into Church-fellowship with some of them, and stay there awhile, and see nothing but vanity there, then they enter into another, where
+<pb n="74" facs="tcp:206381:47"/>they see a little more light, and there they stay a<g ref="char:EOLhyphen"/>while.</p>
+            <p n="5">5. As their knowledge increaseth, so still they get out of one Church fellowship into another, and so from one degree of knowledge to another, and still into the greater light, thinking to find peace and comfort there, but can find none.</p>
+            <p n="6">6. Thus have many run through all or most of the Church fellowships in <hi>England,</hi> and at last could finde no true peace, because in all this their Travel they could not attain to the thing they aimed at, which is the assurance of their Salvation.</p>
+            <p n="7">7. The Reason why in all this their seeking and travelling up and down from one Church to another, they could not attain to the assurance of their Salva<g ref="char:EOLhyphen"/>tion is, because there is no assurance to be had in any Spiritual Appearance where the Minister thereof is not sent of God, therefore it is written, <hi>That many shall say, Lord, Lord, have we not prayed and preached in thy name, and cast out Devils in thy name,</hi> and such like; yet God will charge it upon them to be workers of iniquity.</p>
+            <p n="8">8. There is not now a Minister in the World that dare own himself to be immediately sent of God to de<g ref="char:EOLhyphen"/>clare his mind unto the world, but the <hi>Witnesses of the Spirit</hi> only.</p>
+            <p n="9">9. All they who can truly own them and their Do<g ref="char:EOLhyphen"/>ctrine to be true, will quickly see and be satisfied with the assurance of their Salvation perfected, then they will be at rest when they know what, and where their God is; and there is no other way to come to the knowledge of God, but by believing the Report of the Lords last Witnesses or Prophets which are his only Ministers now in this world.</p>
+            <p n="10">
+               <pb n="75" facs="tcp:206381:47"/>10. Therefore as soon as a man can set to his Seal that the <hi>Witnesses of the Spirit</hi> were truly sent forth of God, and that their Doctrine is true also, then can he clearly see that his whole work of looking after God is finished.</p>
+            <p n="11">11. Then will he say, that he hath found that God to his comfort, who in, and by believing his true Pro<g ref="char:EOLhyphen"/>phets hath given him peace of minde, and the full assu<g ref="char:EOLhyphen"/>rance of faith, that after death he will raise him up to everlasting life, where he shall never lose him more.</p>
+            <p n="12">12. This I can witness in my self, and so can many more besides me, blessed for ever be the name of Christ Jesus, the only and alone wise God for revealing him<g ref="char:EOLhyphen"/>self and his mind so clearly unto us by his last Mes<g ref="char:EOLhyphen"/>sengers.</p>
+         </div>
+         <div n="17" type="chapter">
+            <head>CHAP. XVII. <hi>Truth is a Pearl of great price, therefore a man must part with all to purchase it; And those only that hold out in their Faith to their lives end shall be saved; but for those that fall back, and withdraw their love from it, for them there is no Redemption.</hi>
+            </head>
+            <p n="1">1. THe Doctrine or Declaration of the <hi>Witnesses of the Spirit</hi> is a Pearl of such great price, (this by experience I also know) that no man can pur<g ref="char:EOLhyphen"/>chase it without he parteth with all he hath, that is, without he parteth with all his former Righteousness wherewith he used to worship his Unknown God in outward Ordinances, lifting up his eyes and his hands
+<pb n="76" facs="tcp:206381:48"/>in long Prayers, Pharisee-like, to be seen of men.</p>
+            <p n="2">2. I say, all these (which were complained of in the times both of the Prophets and Apostles, and by Christ himself) were beggarly Elements, and must be parted from, though they are esteemed of great value by the world.</p>
+            <p n="3">3. They that will imbrace Truth must be stripped, and left naked and bare; for God will not accept of a<g ref="char:EOLhyphen"/>ny man so long as he clotheth himself with Ceremo<g ref="char:EOLhyphen"/>nies, which are as filthy rags in the sight of God, for so doth the World ignorantly worship their unknown bodiless God.</p>
+            <p n="4">4. They who are willing to worship the true God, who was, and ever will be a Spiritual Body in Heaven glorified, they are to worship him in Spirit and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruth.</p>
+            <p n="5">5. The Lord now is not to be seen with mortal eyes, all men must now venture their Eternal happiness, or else they will never be at peace, because there is no o<g ref="char:EOLhyphen"/>ther way to please God but wholly to rely upon the words of his said Prophets.</p>
+            <p n="6">6. Therefore woe unto all those that have already, or hereafter shall taste of the good word of God deli<g ref="char:EOLhyphen"/>vered by them and afterwards fall back from it.</p>
+            <p n="7">7. It is now as it was when Christ was upon the Earth, then, said he, <hi>Except you can believe that I am he, you shall die in your sins,</hi> Joh. 8.24. in which words he told them, that he was the Saviour of the World, but they understood him not.</p>
+            <p n="8">8. The generality of people did rather chuse, (which was a most sad choice) to die in their sins, than to believe that Jesus, the supposed Son of <hi>Joseph,</hi> was the Son of God, for all they saw him and heard his words, and of such wonderful Works and Mira<g ref="char:EOLhyphen"/>cles
+<pb n="77" facs="tcp:206381:48"/>as he did and wrought amongst them; whereby it appears p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainly, that Signes and Wonders are for unbelievers.</p>
+            <p n="9">9. N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>withstanding what was said by our blessed Saviour when he was on <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>That a worked and a<g ref="char:EOLhyphen"/>dult<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rous Generat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on looketh <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Signs,</hi> yet in these our dayes people cry out for Signes, and Miracles; but as Christ said to them, <hi>Joh.</hi> 15.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>If he had not come and spoken to them, they had not had sin, but then they no Cloak for their sin.</hi>
+            </p>
+            <p n="10">10. So likewise now in this our age, the <hi>Witnesses of the Spirit</hi> have appeared, of whom one of them is li<g ref="char:EOLhyphen"/>living in this present year 1673. and they have plainly told the people that they were sent forth by the Com<g ref="char:EOLhyphen"/>mand of God to declare his mind unto the World, whereby they might believe in the true God, and be saved, therefore they are left without excuse.</p>
+            <p n="11">11. Yet the generality of people (as the generati<g ref="char:EOLhyphen"/>ons before them) do rather chuse to die in their sins, than to believe that <hi>John Reeve</hi> and <hi>Lodowick Muggle<g ref="char:EOLhyphen"/>ton</hi> should be the Teachers of the whole World: here it is to be minded, that they who never heard of them nor their Doctrine are free from Rebellion.</p>
+            <p n="12">12. But all they who have talked with them, or have read their Writings, or have discoursed with any of the Believers of them about the Truths by them de<g ref="char:EOLhyphen"/>livered, they have no Cloak for their sin, if they do re<g ref="char:EOLhyphen"/>bel against that Truth declared by and from them.</p>
+            <p n="13">13. Therefore let every one who hath tasted the sweetness, comfort and satisfaction of mind in the re<g ref="char:EOLhyphen"/>ceiving and believing of these precious Truths, take heed unto themselves that they slide not back, for they only who keep their confidence in Obedience to the
+<pb n="78" facs="tcp:206381:49"/>Truth, and hold out to the end of their lives shall be saved.</p>
+            <p n="14">14. For all those that sin wilfully after they have re<g ref="char:EOLhyphen"/>ceived the Truth in the knowledge and love thereof, there remaineth no more Sacrifice for that Sin, <hi>Heb.</hi> 10.26. You may read at large in that Chapter what manner of sin that was for which there was to be no Sacrifice.</p>
+            <p n="15">15. It will be found to be the sin of falling away from that Truth which they once received and rejoy<g ref="char:EOLhyphen"/>ced in, for saith the Apostle, <hi>If they who despised Mo<g ref="char:EOLhyphen"/>ses Law were to die without mercy, how much more or so<g ref="char:EOLhyphen"/>rer punishment, suppose ye, shall be thought worthy for those that account the Blood of the Covenant wherewith they were Sanctified an unholy thing.</hi>
+            </p>
+            <p n="16">16. It is the same thing now in the time of the Commission of the Spirit (how lightly soever people make of it) who ever they be, that do enter themselves as Believers, and doth rejoyce therein for a time, and confesseth that he seeth his Salvation perfected by be<g ref="char:EOLhyphen"/>lieving the said Prophets Report, and yet for all this, fall back, and withdraw their love from it, as some lately have done, great will be their punishment.</p>
+            <p n="17">17. And the dayes we now live in may be compa<g ref="char:EOLhyphen"/>red to the days wherein <hi>David</hi> lived, for hath not the Lord shewed us strange things, and made us drink the wine of astonishment.</p>
+            <p n="18">18. In that God hath been pleased to declare him<g ref="char:EOLhyphen"/>self unto us by the mouths of his last true Messengers, and some who received their Message and Declarati<g ref="char:EOLhyphen"/>ons with much seeming comfort and satisfaction, and thereby procured great acquaintance with the Pro<g ref="char:EOLhyphen"/>phet now alive, and had words (as <hi>David</hi> expresseth
+<pb n="79" facs="tcp:206381:49"/>it) <hi>as smooth as butter, and softer than Oyl, yet have they magnified themselves with reproaches for his love in de<g ref="char:EOLhyphen"/>claring the mind of God to them.</hi>
+            </p>
+            <p n="19">19. Had he known that there had been War in their hearts he would have hid it from them; notwith<g ref="char:EOLhyphen"/>standing the Discovery they have made of their own natures, it is in vain for them to fight with him who is too powerful for them. If they shall continue to shoot their Arrows (bitter words) against him, they will return to their own destruction.</p>
+            <p n="20">20. And again by the Prophets affirming some As<g ref="char:EOLhyphen"/>sertions to be true, wherein were some sayings hard to be born from pride and passion he hath been called by some a Devil to his face, and disowning him to be any longer their teacher.</p>
+            <p n="21">21. Thus have they exalted themselves above him, imagining in themselves that they were wiser and knew more then he did from whom they had received all their knowledge; and thus did their aspiring thoughts exalt themselves above their Teacher, just as the Serpent-Angel, of whose seed they are, did exalt himself above his Creator.</p>
+            <p n="22">22. And as the Creator of all things that were Created flung that Angel down from Heaven for his pride and presumption, and took his power from him, so that he can never ascend up again.</p>
+            <p n="23">23. So likewise hath the Lords Messengers flung those men out of Heaven, and taken away their pow<g ref="char:EOLhyphen"/>er, that is, he hath flung them out of all Heavenly peace. He that is at peace with God in this life may be said to be in Heaven, though upon earth.</p>
+            <p n="24">24. Besides, he hath taken the power from them,
+<pb n="80" facs="tcp:206381:50"/>for now they have no power to bring any one into the knowledge of the Truth, nor to defend their own Faith.</p>
+            <p n="25">25. Whatsoever Believers do upon this account, they must do it by vertue of that power which they believe the Commissioner hath, but one of them said, that he valued the Prophets power no more than a Childes of a day old; in so saying they condemn their own faith, by rebelling against their own knowledge and belief.</p>
+            <p n="26">26. Because formerly they did declare to believe that he had received his Commission from God, and that he was a true Prophet, M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssenger, or Minister of God, and that he had power given him in his Com<g ref="char:EOLhyphen"/>mission to set life and death before men.</p>
+            <p n="27">27. Which is no other but to pronounce men bles<g ref="char:EOLhyphen"/>sed or cursed to Eternity, according as they do either believe or despise them and their Declarations.</p>
+            <p n="28">28. So long as they did continue stedfast in that be<g ref="char:EOLhyphen"/>lief, they were in perfect peace, because they were sanctified by his Ministry, but now they have chan<g ref="char:EOLhyphen"/>ged their belief from believing him to be a true Pro<g ref="char:EOLhyphen"/>phet or Minister of God, and in stead thereof call him a Devil, and disown his power.</p>
+            <p n="29">29. Herein do they judge themselves unworthy to have any benefit by the Commission of the Spirit, for as at first they did look upon him to have such power, as to give them a blessing, and therefore did crave it of him.</p>
+            <p n="30">30. So long as they continued subject to him, they found the benefit of it by that peace and comfort they received by it; but since they have resisted his power
+<pb n="81" facs="tcp:206381:51"/>and rebelled against him, they have lost the benefit of his blessing.</p>
+            <p n="31">31. So that saying is made good, <hi>The dog is return<g ref="char:EOLhyphen"/>ed to his vomit, and the sow that was washed into her wallowing in the mire.</hi>
+            </p>
+            <p n="32">32. Now they despise the power of God in his Messenger, and account his Revelation an unholy thing, chusing rather to perish, than submit themselves unto him whom they once owned to be a true Prophet and Messenger of God.</p>
+            <p n="33">33. Therefore hath the only Minister of God in this World withdrawn his love from them, by which means they will become filthy and unclean, because they are fallen back from the Truth so far <hi>that they can<g ref="char:EOLhyphen"/>not be renewed by Repentance.</hi>
+            </p>
+            <p n="34">34. Because the falling back from the Truth after they have received it, is that sin unto death, for which there is no Repentance nor Sacrifice.</p>
+            <p n="35">35. Therefore hath the Prophets wrath taken place in them, because they will never be setled in true peace more.</p>
+            <p n="36">36. Let these things therefore be an example to all that have faith in the Commission of the Spirit, that they may hold fast the Truth unto the end of their lives, and not rebel against the Prophet of the Lord, least they come to be cast out of the favour of God, as those men are to their eternal sorrow.</p>
+            <p n="37">37. Two things I have to add before I conclude this Chapter, first to exhort all not to startle or be trou<g ref="char:EOLhyphen"/>bled, much less to scoff or upbraid that the breaches are thus come; for it is no otherwise then hath fallen out, and is expressed in holy Writ in the two former Commissions.</p>
+            <p n="38">
+               <pb n="82" facs="tcp:206381:52"/>38. Secondly, although there did arise the discenti<g ref="char:EOLhyphen"/>on, discord, and rebellion before mentioned, yet even thereby there hath been opened more secret and hea<g ref="char:EOLhyphen"/>venly truths then otherwise would have been as the time when they shall be made publique will demon<g ref="char:EOLhyphen"/>strate to the satisfaction of all the true Believers, the seed of faith. It was said by our Lord when he was on earth, <hi>That in the World there would be offence, but woe is on them by whom they come.</hi>
+            </p>
+         </div>
+         <div n="18" type="chapter">
+            <head>CHAP. XVIII. <hi>How all the Seed of Faith may be made able to say with me, and all true Believers, That they can read that new Name written in themselves, and what the hidden Manna is.</hi>
+            </head>
+            <p n="1">1. NOw I have in plainness of speech declared that my saith is fully grounded upon the Do<g ref="char:EOLhyphen"/>ctrine declared by the <hi>Witnesses of the Spirit.</hi> Also I have declared what and where that God is who is the true Object of my Faith.</p>
+            <p n="2">2. And I do heartily desire that all the Seed of faith may come to true knowledge of my God, who is Christ Jesus glorified, and by the true knowing of him, and truly believing in him be made able to say with me, and all true Believers, that they can read that new Name written in themselves which is given to all that overcometh and forsaketh the idolatrous worship<g ref="char:EOLhyphen"/>ping of Idols, and Unknown Gods, and cleave close to the true God by worshipping him only in spirit and truth.</p>
+            <p n="3">
+               <pb n="83" facs="tcp:206381:52"/>3. The new Name is the assurance of Salvation, and the white stone, wherein it is written, is the heart, that is made clean by believing the truth.</p>
+            <p n="4">4. The assurance of Salvation is so secretly hid in the heart that no man can know it, exceptt he that receiveth it for, for it is only written in the heart of every true Believer; therefore no man can read it in another; but he that is setled in the practice and know<g ref="char:EOLhyphen"/>ledge of truth can know it in himself.</p>
+            <p n="5">5. This is the hidden Manna which all true Belie<g ref="char:EOLhyphen"/>vers seed upon; and it is called hidden Manna, be<g ref="char:EOLhyphen"/>cause it is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idden in the heart, where no unbeliever or despiser of truth can see it, or find it out to be refreshed by it.</p>
+            <p n="6">6. Blessed for evermore be the name of our God for revealing his will and mind to us, declared in the Sacred Scriptures, penned by the true Prophets and Apostles of old, but now made manifest by the mouth and pen of his last Messengers, which giveth to all that can truly believe them, peace of mind (in this life) and the assurance of everlasting life in the world to come.</p>
+            <p n="7">7. Even so, come Lord Jesus, come quickly, and put an end to all Time, that we who are thine Elect may be Crowned with that Glory which thou hast prepared for us and all those that love thee, to wear in the presence of thy most glorious Majesty, with the true Prophets, and Apostles, to all Eternity. <hi>A<g ref="char:EOLhyphen"/>men. Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:206381:53"/>
+            <head>Errors in the Press.</head>
+            <p>Chapt. 1. v. 8. <hi>for</hi> he, Read be. ver. 16. Read, the nature of God is in them. ver. 26. the whole work of the Lord. ver. 30. Read, a grea<g ref="char:EOLhyphen"/>ter burden. v. 40. Read, ought we to take. Cha. 2. v. 17. for tyet Read, yet, for hat, read that. ver. 24. Read, of the Truth. Chapt. 3. ver. 22. are here<g ref="char:EOLhyphen"/>by exhorted and desired to keep their own peace, because they are acquaint<g ref="char:EOLhyphen"/>ed. Chap. 4. ver. 6. Read, food and rayment. ver. 12. <hi>for,</hi> hardly, read, hard. ver. 24. <hi>for</hi> rought, read, brought. Chapt. 10. ver. 9. Read, he is the Witnesses of the God. Chap. 13. ver. 3. Read, <hi>Watton,</hi> for <hi>Walton.</hi> ver. 14. the Immortal God dwelleth. Chap. 14. ver. 17. <hi>for,</hi> the earth, Read, this earth. Chapt. 15. ver. 2. <hi>for,</hi> secretly lie, Read, lie secretly. Chapt. 17. ver. 9. <hi>for,</hi> but then they no Cloak, Read, but now they have no Cloak.</p>
+            <pb facs="tcp:206381:53"/>
+         </div>
+      </back>
+   </text>
+</TEI>
